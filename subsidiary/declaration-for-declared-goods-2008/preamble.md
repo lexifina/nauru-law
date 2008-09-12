@@ -1,0 +1,3 @@
+Declaration for Declared Goods
+2008
+Pursuant to powers vested in me by Section 4(1) and subsection (4) of the Prices Regulation Act 2008, and acting with the advice of the Secretary for Finance I declare that, the following goods are declared goods for the purposes of the Prices Regulations Act 2008: • Diesel; • Petrol; and • Rice. The declaration is to apply forthwith from the date of publication and acting with advice of the Secretary for Finance. I am satisfied that it is necessary to act without delay in order to ensure the fair distribution of these goods among all members of the community.
