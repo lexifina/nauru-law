@@ -1,0 +1,1 @@
+I, Baron Divavesi Waqa, Acting Minister for Transport, acting in accordance with powers vested in me by Section 80 of the Motor Traffic Act 2014 and in consultation with Cabinet, hereby notify the public of the following:
