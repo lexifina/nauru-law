@@ -1,0 +1,1 @@
+IN EXERCISE of the powers conferred on me by Section 76 of the Civil Procedure Act 1972 and Section 17 of the Attachment of Earnings and Phosphate Royalties Act 1973, I hereby make the following rules of court:
