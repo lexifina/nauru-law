@@ -1,0 +1,1 @@
+The Cabinet makes the following Regulations under Section 86 of the National Disaster Risk Management Act 2016 to supplement the Declaration of National Emergency for the Management and Minimisation of the Impacts of Coronavirus (COVID-19):
