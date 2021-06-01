@@ -1,0 +1,7 @@
+# SCHEDULE
+[Section 1(3)]
+PHASED IMPLEMENTATION OF CERTAIN PROVISIONS
+[Sch 1 am Act 6 of 2009 s 3, opn 28 Aug 2009]
+Pursuant to Section 1(3) the provisions specified in the left hand column of the following table shall come into force on the date specified in the corresponding row of the right hand column:
+Table of commencement dates
+Provision of the Act Date of commencement Definition of ‘enclosed public place’ in 4 years and 3 months after certification Section 2 Definition of ‘enclosed public workplace’ in 4 years and 3 months after certification Section 2 Section 6 12 months after certification Section 7 6 months after certification Section 8 9 months after certification Paragraph (b) of subsection 9(1), and 6 months after certification subsection 9(5) Section 11 12 months after certification Section 12 6 months after certification Subsection 24(8) and Section 25 3 months after certification, provided that failure to provide information, records or copies in relation to the operation or enforcement or investigation of a suspected contravention of a provision that has not yet commenced shall not be an offence Section 26 3 months after certification, provided that no offence shall be deemed to have been committed under this Section if it relates to a provision that has not yet commenced Subsection 27(3) 3 months after certification, provided that it shall not be an offence to fail to comply with a direction wrongfully issued in respect of a provision that has not yet commenced Paragraph (g) of Section 30 4 years and 3 months after certification
