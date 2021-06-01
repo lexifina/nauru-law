@@ -1,0 +1,2 @@
+An Act to regulate the operation of centres at which asylum seekers and certain other persons brought to the Republic under the Migration Act 1958 of the Commonwealth of Australia are required to reside, to establish certain protections for those persons and set out their obligations, to impose duties on the person managing operations at a centre and confer powers on certain persons in relation to a centre or persons residing there and to appoint the Minister as guardian of certain children and for related purposes.
+Enacted by the Parliament of Nauru as follows:
