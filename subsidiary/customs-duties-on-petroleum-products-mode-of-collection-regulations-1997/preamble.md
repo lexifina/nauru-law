@@ -1,0 +1,1 @@
+IN EXERCISE of the powers under Section 3 of the Customs Act 1921, Cabinet hereby makes the following Regulations to provide for the mode of collection of duties on petroleum products and matters connected therewith.
