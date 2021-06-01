@@ -1,0 +1,2 @@
+An Act to repeal the Oaths Ordinance 1912-1967 and the application to the Republic of the Statutory Declarations Act 1911 of the Parliament of the Commonwealth of Australia and the Oaths Ordinance 1912 of the Territory of Papua and to make new provisions for the taking of oaths and the making of affirmations and statutory declarations and for matters related thereto.
+Enacted by the Parliament of Nauru as follows:
