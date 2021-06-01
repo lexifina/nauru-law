@@ -1,0 +1,1 @@
+BE it ordained by the Administrator of the Island of Nauru, acting in pursuance of the powers conferred by Article 1 of the Agreement dated the 2nd day of July, 1919, between His Majesty’s Government in London, His Majesty’s Government of the Commonwealth of Australia and His Majesty’s Government of the Dominion of New Zealand, as follows:
