@@ -1,0 +1,4 @@
+# SCHEDULE
+[Sections 22 and 30; Regulation 20]
+PROHIBITED ITEMS
+No. Items 1. Part of weapons, weapon accessories, ammunition cartridges 2. Detonators, fuses, blasting caps, detonating cords or similar articles 3. Night vision devices 4. Metal detectors or magnetic materials 5. Replica weapons or compressed air devices capable of firing a projectile 6. Fireworks or other incendiary device 7. Infectious substances 8. Poisons and biological agents 9. Highly flammable, corrosive or toxic substance 10. Matches or cigarette lighter 11. Strong acids or alkali 12. Oxidising substances and organic peroxide 13. Herbicide, fungicide, insecticide, fertilisers containing ammonium nitrate 14. Intoxicating substances such as alcohol or illicit drugs 15. Radioactive materials 16. Compressed and liquefied gases 17. Objects with sharpened points or edges (other than workers’ tools) 18. Drones
