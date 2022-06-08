@@ -1,0 +1,4 @@
+# Sixth Schedule
+[Article 94]
+[Sch 6 insrt GN No 72/1968, opn 17 May 1968]
+Amount ($) Fund or purpose 1.70 Long Term Investment Fund established under Article 62. 0.50 Nauruan Landowners Royalty Trust Fund for the benefit of owners of phosphate bearing lands. 0.60 Nauru Development Fund for promoting the economic development of Nauru. 0.80 Nauru Housing Fund for erecting, repairing or maintaining houses in Nauru. 0.20 Nauru Rehabilitation Fund for the purpose of restoring or improving the parts of the Island of Nauru that have been affected by mining for phosphate. 0.60 For payment to the owners of phosphate bearing lands leased to the British Phosphate Commissioners. 0.10 Nauru Royalty Fund for any of the purposes for which the Nauru Local Government Council is authorised by the Nauru Local Government Council Ordinance 1951 – 1967 of Nauru to expend moneys.
