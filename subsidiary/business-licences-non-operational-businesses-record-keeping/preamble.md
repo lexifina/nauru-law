@@ -1,0 +1,1 @@
+The Cabinet makes the following Regulations under Section 30 of the Business Licences Act 2017, Section 35 of the Business Names Registration Act 2018, Section 71 of the Partnership Act 2018, Section 243 of the Corporations Act 1972 and Section 34 of the Trusts Act 2018:
