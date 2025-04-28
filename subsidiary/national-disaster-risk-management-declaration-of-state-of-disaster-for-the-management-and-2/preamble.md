@@ -1,0 +1,1 @@
+The Cabinet makes the following Regulations under Sections 82 and 86 of the National Disaster Risk Management Act 2016 to give effect to any Declaration of State of Disaster declared under Section 26 of the Act.
