@@ -3,10 +3,16 @@ REPUBLIC OF NAURU
 REFERENDUM PROCEDURES ACT 2025
 [Sections 13 and 14]
 BALLOT PAPER — ARTICLE 84 REFERENDUM
-Mark ‘X’ in your preferred choice below:
-Do you approve of the [insert the citation of the proposed law]?
-YES
-NO FORM 2
+Note for Voters
+For the purposes of voting in this Referendum, the Parliament has passed the Constitution (Amendment) Bill 2025 to extend the term of Parliament from 3 to 4 years. This Bill can only become law if two thirds of the votes cast in the referendum are in favour of it. The Bill is to extend the current term of Parliament from 3 to 4 years. As a voter you have to answer the question below. The sample of how to vote on whether you agree or disagree with the extension of the term from 3 to 4 years is provided below.
+Do you agree that the term of the Parliament be increased from 3 to 4 years as approved and passed by the Parliament pursuant to the Constitution (Amendment) Bill 2025?
+If you agree then place a ‘√’ in the box next to ‘YES’ like this YES √
+If you do not agree, then place a ‘√’ in the box next to ‘NO’ like this NO √
+QUESTION TO ANSWER BY VOTING You will place your mark (‘√’) after this question.
+Do you agree that the term of the Parliament be increased from 3 to 4 years as approved and passed by the Parliament pursuant to the Constitution (Amendment) Bill 2025?
+YES NO
+[Form 1 subst SL 56 of 2025 reg 4, opn 2 Oct 2025]
+FORM 2
 REPUBLIC OF NAURU
 REFERENDUM PROCEDURES ACT 2025
 [Section 18]
