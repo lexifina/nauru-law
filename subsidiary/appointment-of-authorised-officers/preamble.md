@@ -1,15 +1,15 @@
 Appointment of Authorised Officers
 [Section 32]
-Pursuant to the powers vested in me under Section 32 of the Act, I, Lionel Rouwen Aingimea, M.P, hereby appoint the following classes of persons as authorised officers for the purposes of the Act and the Declaration of National Emergency for the Management and Minimisation of the Impacts of Coronavirus (COVID-19) at all Designated Residences:
-1. Police Officers;
-2. Community Liaison Officer; and
-3. Such Security Officers engaged or employed for the purposes of the Act and Declaration to provide security specifically at the designated residences.
-The authorised officers shall exercise all such powers contained in Section 33 and 34 of the Act.
-POWERS OF AUTHORISED OFFICERS
-[Section 34]
+PURSUANT to the powers vested in me under Section 32 of the National Disaster Risk Management Act 2016 (‘Act’), I appoint the following classes of persons as authorised officers for the purposes of the Act and the Declaration of State of Disaster for the Management and Minimisation of the Impacts of the UXO, commencing on 11 February 2026:
+(a) Police Officers;
+(b) Community Liaison Officers;
+(c) Department of National Emergency Services officers;
+(d) Civil Aviation Authority employees or officers as approved by the National Controller; and
+(e) Such other persons engaged or employed for the purposes of the Act to provide security or to assist with the removal of the UXO specifically within the exclusion zone. In accordance with Section 33, an authorised officer may exercise the powers under Section 34 of the Act which states as follows:
+‘34 POWERS OF AUTHORISED OFFICERS
 (1) An authorised officer may do any of the following:
 (a) control the movement of persons, animals or vehicles within, into, out of or around any particular areas;
-(b) give a direction to a person to regulate the movement of the person, an animal or a person within, into, out of or around any particular areas;
+(b) give a direction to a person to regulate the movement of the person, an animal or a person within, into, out of or around any particular area;
 (c) evacuate persons or animals from a particular area;
 (d) take into a particular area the equipment, persons or material the authorised officer reasonably requires for exercising a power under this Act;
 (e) contain an animal or substance in a particular area;
@@ -24,4 +24,6 @@ POWERS OF AUTHORISED OFFICERS
 (n) require a person to give reasonable assistance to allow the authorised officer to exercise his or her powers.
 (2) An authorised officer may enter any building or property without a warrant or the consent of the owner if exercising his or her powers under the Act.
 (3) In the exercise of his or her powers under the Act, an authorised officer may use reasonable force against a person.
-(4) When giving a direction under the Act, an authorised office shall ensure to inform the other person that it is an offence to fail to comply with a directive unless the person has a reasonable excuse.
+(4) When giving a direction under the Act, an authorised officer shall ensure to inform the other person that it is an offence to fail to comply with a directive unless the person has a reasonable excuse.’
+DATED this 13th day of February 2026.
+.......................................................... His Excellency, Hon. Lionel Rouwen Aingimea, M.P. ACTING PRESIDENT
