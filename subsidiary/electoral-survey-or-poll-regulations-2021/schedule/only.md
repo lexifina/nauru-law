@@ -1,6 +1,6 @@
 # SCHEDULE FORM 1
 BALLOT PAPER
-REPUBLIC OF NAURU ELECTORAL ACT 2016
+REPUBLIC OF NAOERO ELECTORAL ACT 2016
 [Regulation 7]
 BALLOT PAPER
 [Survey or Poll*]
@@ -10,9 +10,9 @@ Read the question(s)* and tick “YES” or “NO”.
 □ Yes □ No
 [Note: If necessary, insert additional question(s).]* [Insert question for voter to vote on]* □ Yes □ No
 [Note: *delete whichever does not apply]
-[Form 1 subst SL 32 of 2021 reg 4, opn 28 Oct 2021]
+[Form 1 subst SL 32 of 2021 reg 4, opn 28 Oct 2021; am Act 21 of 2026 s 5, opn 12 May 2026]
 FORM 2
-REPUBLIC OF NAURU
+REPUBLIC OF NAOERO
 ELECTORAL ACT 2016
 [Regulation 9]
 CERTIFICATE OF RESULT OF [SURVEY/POLL*]
@@ -23,4 +23,4 @@ DATED this ................... day of ...................................... 20.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 [Electoral Commissioner] [Electoral Commissioner] [Electoral Commissioner]
 [Note: *delete whichever does not apply]
-[Form 2 subst SL 32 of 2021 reg 4, opn 28 Oct 2021]
+[Form 2 subst SL 32 of 2021 reg 4, opn 28 Oct 2021; am Act 21 of 2026 s 5, opn 12 May 2026]

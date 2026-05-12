@@ -16,27 +16,30 @@ List of Forms
 12. Affidavit in support of application under Section 33 of the Act (rule 43(2))
 13. Originating summons for alteration of a maintenance agreement (rule 44(1))
 14. Affidavit in support of application under Section 35 of the Act (rule 44(2)) FORM NO 1
-REPUBLIC OF NAURU
+REPUBLIC OF NAOERO
 MATRIMONIAL CAUSES ACT 1973
 [Rule 4(1)]
 ORIGINATING SUMMONS IN APPLICATION UNDER SECTION 4
-In the Family Court of Nauru M C No In the matter of a proposed petition for dissolution of marriage Between A. B. , Applicant and C. D. , Respondent
+In the Family Court of Naoero M C No In the matter of a proposed petition for dissolution of marriage Between A. B. , Applicant and C. D. , Respondent
 To C D of
 You are hereby required to attend before the Chairperson of the Family Court at the Court House at Yaren at a m */ p m on day the day of , 20 , for the hearing of an application by A B of for leave to present a petition for dissolution of his * her marriage with you before the expiration of the period of three years from the date of the said marriage. An affidavit by A B as to his or her reasons for making the application and as to other facts alleged by him or her is attached to this summons.
 PLEASE NOTE THAT IF YOU DO NOT ATTEND AS REQUIRED THE APPLICATION WILL BE HEARD AND DETERMINED IN YOUR ABSENCE.
 PLEASE NOTE ALSO THAT IF YOU WISH TO OPPOSE THE APPLICATION YOU SHALL LODGE IN THE OFFICE OF THE COURT NOT LESS THAN THREE DAYS BEFORE THE DATE FIXED FOR THE HEARING OF THIS APPLICATION, AN AFFIDAVIT STATING THE GROUNDS ON WHICH YOU OPPOSE IT AND DENYING SUCH OF THE FACTS ALLEGED BY THE APPLICANT AS YOU DO NOT ADMIT.
 You shall complete and detach the acknowledgement of service and send it so as to reach the court within 8 days after you receive this notice inclusive of the day of receipt. Delay in returning the form may add to the costs which you may have to pay. If you intend to instruct a legal practitioner to act for you, you should at once give him or her all the documents which have been served on you, so that he or she may send the acknowledgement to the court on your behalf.
-The applicant’s address for service is DATED this day of 20
-Deputy Registrar of the Family Court
+The applicant’s address for service is
+DATED this day of 20 Deputy Registrar of the Family Court
 (Here set out Form No 6)
-* Delete whichever is not applicable FORM NO 2
-REPUBLIC OF NAURU MATRIMONIAL CAUSES ACT 1973
+* Delete whichever is not applicable
+[Form 1 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM NO 2
+REPUBLIC OF NAOERO
+MATRIMONIAL CAUSES ACT 1973
 [Rule 5(1)]
 PETITION
-In the Family Court of Nauru M C No In the matter of a petition for dissolution of marriage (or as the case may be) Between A. B. Petitioner and C. D. Respondent
+In the Family Court of Naoero M C No In the matter of a petition for dissolution of marriage (or as the case may be) Between A. B. Petitioner and C. D. Respondent
 A B of petitions the court to dissolve his * her marriage to C D (or as the case may be) and says that:
 (1) On the day of 20 the petitioner was lawfully married to (hereinafter called the respondent) at
-(2) The petitioner and the respondent have cohabited at (state the last address at which they have cohabited in Nauru) * The petitioner and the respondent have not cohabited in Nauru
+(2) The petitioner and the respondent have cohabited at (state the last address at which they have cohabited in Naoero) * The petitioner and the respondent have not cohabited in Naoero
 (3) The court has jurisdiction to entertain this petition because (state reason for jurisdiction as in Section 44 of the Act)
 (4) The petitioner is a (state occupation) and the respondent is a (state occupation)
 (5) The petitioner resides at and the respondent resides at
@@ -52,17 +55,21 @@ A B of petitions the court to dissolve his * her marriage to C D (or as the case
 (1) That the said marriage may be dissolved (or as the case may be) +(2) That he* she may be granted the custody of (state name(s) of the child(ren)) +(3) (Where appropriate) That the respondent may be ordered to pay the costs of this suit
 (4) That he* she may be granted the following ancillary relief, namely (state particulars of any application for ancillary relief which it is intended to claim) The names and addresses of the persons who are to be served wih this petition are (give particulars stating if any of them is a person under disability) The petitioner’s address for service is (Where the petitioner sues by a legal practitioner the name and address of the legal practitioner, or of the firm of legal practitioner as the case may be, or, where the petitioner sues in person, state his or her place of residence as given in paragraph 4 of the petition or if no place of residence in the Republic is given, the address of a place in the Republic at or to which documents for him or her may be delivered or sent).
 DATED this day of 20
-Signed (see Rule 6(1)) * Delete whichever is not applicable + Delete if not applicable ** For the meaning of “relevant child”, see Section 2 of the Act FORM NO 3
-REPUBLIC OF NAURU
+Signed (see Rule 6(1)) * Delete whichever is not applicable + Delete if not applicable ** For the meaning of “relevant child”, see Section 2 of the Act
+[Form 2 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM NO 3
+REPUBLIC OF NAOERO
 MATRIMONIAL CAUSES ACT 1973
 [Rule 5(6)]
 PETITION WHERE BREAKDOWN OF MARRIAGE IS TO BE PROVED UNDER SECTION 10
 In the Family Court MC No In the matter of a petition for dissolution of marriage By A B and C D Petitioners
-We A B and C D petition the court to dissolve our marriage and state: 1 On the day of 20 the petitioners were lawfully married to one another at 2 The petitioners have cohabited at (state the last address at which they cohabited in Nauru) * The petitioners have not cohabited in the Republic 3 The court has jurisdiction to entertain this petition because (state reason for jurisdiction as in Section 44 of the Act) 4 The petitioner A B is a (state occupation) the petitioner C D is a (state occupation) 5 The petitioner A B resides at and the petitioner C D resides at 6 (As paragraph (6) in Form No 2) 7 A B * C D is responsible for the maintenance of (state details of any other infant for whose maintenance that petitioner is responsible) 8 The following * No agreement or arrangement has been made or is proposed to be made between the petitioners for the support of either one of them by the other + and the said child(ren) + namely 9 The marriage has irretrievably broken down 10 The petitioners are living apart The petitioners therefore pray:
+We A B and C D petition the court to dissolve our marriage and state: 1 On the day of 20 the petitioners were lawfully married to one another at 2 The petitioners have cohabited at (state the last address at which they cohabited in Naoero) * The petitioners have not cohabited in the Republic 3 The court has jurisdiction to entertain this petition because (state reason for jurisdiction as in Section 44 of the Act) 4 The petitioner A B is a (state occupation) the petitioner C D is a (state occupation) 5 The petitioner A B resides at and the petitioner C D resides at 6 (As paragraph (6) in Form No 2) 7 A B * C D is responsible for the maintenance of (state details of any other infant for whose maintenance that petitioner is responsible) 8 The following * No agreement or arrangement has been made or is proposed to be made between the petitioners for the support of either one of them by the other + and the said child(ren) + namely 9 The marriage has irretrievably broken down 10 The petitioners are living apart The petitioners therefore pray:
 (1) That their said marriage may be dissolved +(2) That the following order be made for custody of the child(ren), namely (state order sought) * That the court make such order as it thinks proper for custody of the child(ren) +(3) That the said A B * C D may be granted the following ancillary relief namely (state particulars of any application for ancillary relief which either petitioner intends to claim) The address of A B (or service is the address of C D for service is (Where either of the petitioners is represented by a legal practitioner state his or her name and address, or the name and address of his or her firm if any, where either petitioner is not represented, state his or her place of residence as given in paragraph 4 of the petition or, if no place of residence in the Republic is given, the address of a place in the Republic at or to which documents for him or her may be delivered or sent)
 DATED this day of 20
-Signed (see Rule 6(2)) * Delete whichever is not applicable + Delete if not applicable FORM NO 4
-REPUBLIC OF NAURU
+Signed (see Rule 6(2)) * Delete whichever is not applicable + Delete if not applicable
+[Form 3 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM NO 4
+REPUBLIC OF NAOERO
 MATRIMONIAL CAUSES ACT 1973
 [Rule 7 (5)(b)]
 NOTICE OF PROCEEDINGS TO RESPONDENT
@@ -77,19 +84,22 @@ TAKE NOTICE that a petition for divorce * (as the case may be) has been presente
 DATED this day of 20
 Deputy Registrar of the Family Court
 (Here set out Form No 6)
-* Delete whichever is not applicable + Delete if not applicable FORM NO 5
-REPUBLIC OF NAURU
+* Delete whichever is not applicable + Delete if not applicable
+[Form 4 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM NO 5
+REPUBLIC OF NAOERO
 MATRIMONIAL CAUSES ACT 1973
 [Rule 7(5)(b)]
 NOTICE OF PROCEEDINGS TO PERSONS OTHER THAN RESPONDENTS
 TO E F
 TAKE NOTICE that a petition for divorce has been presented to this court by A B. A sealed copy of it is delivered with this notice. You are not required to be a party to the proceedings commenced by this petition but you are entitled to apply to the court ex parte by summons to be made a party. Unless you are made a party, you will have no right to be heard or to present evidence, in those proceedings (although you may be required by either the petitioner or the respondent to give evidence)
-1 You shall complete and detach the acknowledgement of service and send it so as to reach the court within 14 days after you receive this notice, exclusive of the day of receipt 2 If the reply to Question 4 in the acknowledgement is “Yes”, a summons will be issued in respect of your application to be joined as a party and you will be advised of the date and time when you shall attend before the Chairperson of the Family Court for the application to be heard 3 If you do not return the acknowledgement of service within the time permitted or if the reply to Question 4 of it is not “Yes”, or if you do not give in it an address for service in the Republic you will receive no further notice regarding the proceedings 4 If you intend to instruct a legal practitioner to act for you, you should at once give him or her all the documents which have been served on you, so that he or she may send the acknowledgement to the court on your behalf if you are applying to be made a party but do not attend to instruct a legal practitioner you should give in the acknowledgement an address for service in the Republic so that any documents affecting your interests which are sent to you will in fact reach you. You should also, in that case inform the court of any change of your address
-(NOTE: IF YOU DO NOT UNDERSTAND ANY OF THE REQUIREMENTS OF THIS NOTICE YOU SHOULD CALL AT THE COURT HOUSE DURING OFFICE HOURS AS SOON AS POSSIBLE AND I SHALL EXPLAIN THEM TO YOU)
+1 You shall complete and detach the acknowledgement of service and send it so as to reach the court within 14 days after you receive this notice, exclusive of the day of receipt 2 If the reply to Question 4 in the acknowledgement is “Yes”, a summons will be issued in respect of your application to be joined as a party and you will be advised of the date and time when you shall attend before the Chairperson of the Family Court for the application to be heard 3 If you do not return the acknowledgement of service within the time permitted or if the reply to Question 4 of it is not “Yes”, or if you do not give in it an address for service in the Republic you will receive no further notice regarding the proceedings 4 If you intend to instruct a legal practitioner to act for you, you should at once give him or her all the documents which have been served on you, so that he or she may send the acknowledgement to the court on your behalf if you are applying to be made a party but do not attend to instruct a legal practitioner you should give in the acknowledgement an address for service in the Republic so that any documents affecting your interests which are sent to you will in fact reach you. You should also, in that case inform the court of any change of your address (NOTE: IF YOU DO NOT UNDERSTAND ANY OF THE REQUIREMENTS OF THIS NOTICE YOU SHOULD CALL AT THE COURT HOUSE DURING OFFICE HOURS AS SOON AS POSSIBLE AND I SHALL EXPLAIN THEM TO YOU)
 DATED this day of 20
 Deputy Registrar of the Family Court
-(Here set out Form No 7) FORM NO 6
-REPUBLIC OF NAURU
+(Here set out Form No 7)
+[Form 5 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM NO 6
+REPUBLIC OF NAOERO
 MATRIMONIAL CAUSES ACT 1973
 [(Rule 7(5)(b)]
 ACKNOWLEDGEMENT OF SERVICE BY RESPONDENT
@@ -115,8 +125,10 @@ Address for service (Unless you intend to instruct a legal practitioner give you
 * /(If a legal practitioner is instructed) I am * we are acting for the respondent in this matter
 Signed
 Address for service
-* Delete whichever is not applicable + Question to be deleted if not applicable FORM NO 7
-REPUBLIC OF NAURU
+* Delete whichever is not applicable + Question to be deleted if not applicable
+[Form 6 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM NO 7
+REPUBLIC OF NAOERO
 MATRIMONIAL CAUSES ACT 1973
 [Rule 7(5)(b)]
 ACKNOWLEDGEMENT OF SERVICE BY PERSON OTHER THAN RESPONDENT
@@ -128,8 +140,10 @@ Signed
 Address for service (Unless you intend to instruct a legal practitioner give your place of residence or, if you do not reside in the Republic, the address of a place in the Republic to which documents may be sent to you. If you subsequently wish to change your address for service, you shall notify the court) * /(If a legal practitioner is instructed) I am * we are acting for the respondent in this matter
 Signed
 Address for service
-* Delete whichever is not applicable FORM NO 8
-REPUBLIC OF NAURU
+* Delete whichever is not applicable
+[Form 7 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM NO 8
+REPUBLIC OF NAOERO
 MATRIMONIAL CAUSES ACT 1973
 [Rule 34]
 APPLICATION FOR CONSIDERATION OF FINANCIAL POSITION OF RESPONDENT
@@ -138,8 +152,10 @@ TO: A B
 TAKE NOTICE that the respondent applies to the court under Section 17 of the Matrimonial Causes Act 1973 for the court to consider the financial position of the respondent after the divorce The application will be heard immediately after a decree nisi is granted * (If application is made after a decree nisi has been granted) Notice will be given to you of the place and time fixed for the hearing of the application * The application will be heard by the court at the Court House at Yaren on day the day of 20 , at a m */p m
 DATED this day of 20
 Signed Respondent */ legal practitioner for the Respondent */ legal practitioner for the Respondent
-* Delete whichever is not applicable FORM NO 9
-REPUBLIC OF NAURU
+* Delete whichever is not applicable
+[Form 8 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM NO 9
+REPUBLIC OF NAOERO
 MATRIMONIAL CAUSES ACT 1973
 [Rule 35]
 NOTICE TO ATTEND
@@ -147,8 +163,10 @@ NOTICE TO ATTEND
 TO: A B and C D
 TAKE NOTICE that your petition for the dissolution of your marriage will be heard by the court at the Court House at Yaren on day, the day of 20 , at a m */ p m and that you are required to attend
 DATED this day of 20
-Deputy Registrar of the Family Court FORM NO 10
-REPUBLIC OF NAURU
+Deputy Registrar of the Family Court
+[Form 9 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM NO 10
+REPUBLIC OF NAOERO
 MATRIMONIAL CAUSES ACT 1973
 [Rule 37]
 NOTICE OF APPLICATION FOR ANCILLARY RELIEF
@@ -160,12 +178,14 @@ If you wish to allege that the applicant has property or income, you should say 
 (NOTE: IF YOU DO NOT UNDERSTAND ANY OF THE REQUIREMENTS OF THIS NOTICE YOU SHOULD CALL AT THE COURT HOUSE DURING OFFICE HOURS AS SOON AS POSSIBLE AND THE DEPUTY REGISTRAR WILL EXPLAIN THEM TO YOU)
 DATED this day of 20
 Applicant * /legal practitioner for the Applicant */legal practitioner for the Applicant
-* Delete whichever is not applicable FORM NO 11
-REPUBLIC OF NAURU
+* Delete whichever is not applicable
+[Form 10 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM NO 11
+REPUBLIC OF NAOERO
 MATRIMONIAL CAUSES ACT 1973
 [Rule 43(1)]
 ORIGINATING SUMMONS IN RESPECT OF WILFUL NEGLECT TO MAINTAIN
-In the Family Court of Nauru M C No In the matter of an application under Section 33 of the Matrimonial Causes Act 1973 Between A. B. Applicant and C. D. Respondent
+In the Family Court of Naoero M C No In the matter of an application under Section 33 of the Matrimonial Causes Act 1973 Between A. B. Applicant and C. D. Respondent
 To C D of
 You are hereby required to attend before the Family Court at the Court House at Yaren at a m */ p m on day the day of , 20 * on a date and at a time which will be notified to you by me in due course for the hearing of an application by A B that you be ordered on the ground of your having wilfully neglected to maintain the said A B * the child(ren) E F * G H whom you have an obligation to maintain * the said A B and the child(ren) E F * and G H whom you have an obligation to maintain to make periodical provision for his * her * their maintenance. An affidavit by A B as to the grounds for making the application is attached to this summons
 PLEASE NOTE THAT IF YOU DO NOT ATTEND AS REQUIRED THE APPLICATION WILL BE HEARD AND DETERMINED IN YOUR ABSENCE
@@ -174,13 +194,17 @@ You shall complete and detach the acknowledgement of service and send it so as t
 The Applicant’s address for service is DATED this day of 20
 Deputy Registrar of the Family Court
 (Here set out Form No 6)
-* Delete whichever is not applicable FORM NO 12
-REPUBLIC OF NAURU
+* Delete whichever is not applicable
+[Form 11 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM NO 12
+REPUBLIC OF NAOERO
 MATRIMONIAL CAUSES ACT 1973
 [Rule 43(2)]
 AFFIDAVIT IN SUPPORT OF APPLICATION UNDER SECTION 33 OF THE ACT
-(Heading as in Form No 11) I A B of make oath and say: 1 I am the wife * husband of C D of (hereinafter called the respondent) 2 The respondent has neglected to provide reasonable maintenance for me * the child(ren) of our family * me and the child(ren) of our family 3 On the day of 20 I (in the case of an application by a wife) being then (state full name and status before the marriage) * (in the case of an application by a husband) who was then (state respondent’s full name and status before marriage) was lawfully married to the respondent at 4 There is * are * (state number) child(ren) of the family now living + namely (state the name of each child and his or her date of birth or if it be the case that he or she is 21 or over and in the case of each minor child over the age of 16 whether he or she is or will be or if an order or provision were made would be receiving instruction at an educational establishment or undergoing training for a trade profession or vocational) who is now residing at (state the place) with (state the person) 5 There have been no previous proceedings in any court in the Republic or elsewhere with reference to the marriage * the child(ren) of the family + except (state the nature of the proceedings the date and effect of any decree or order and in the case of proceedings with reference to the marriage whether there has been any resumption of cohabitation since the making of the decree or order) 6 The following are particulars of the wilful neglect by the respondent to provide reasonable maintenance for me * for the said child(ren) (state names) * for me and the said child(ren) (state names) (give particulars of the wilful neglect) 7 The respondent has not made any payments to me by way of maintenance for myself * the said child(ren) * myself and the said child(ren) + except (give particulars) 8 My means are as follows— 9 To the best of my knowledge and belief the respondent’s means are as follows— 10 I apply for an order than the respondent do make provision by way of periodical payments for me + and for (state name(s)) of child(ren) in respect of whom such claim is made) 11 I ask that I may be granted the custody of the said (state name(s) of the child(ren)) 12 This court has jurisdiction to entertain these proceedings by reason of the fact that the respondent and I are resident in the Republic (or as the case may be) Sworn by the said A B ) at this ) day of ) 20 ) Before me Commissioner for Oaths * Delete whichever is not applicable + Delete if not applicable FORM NO 13
-REPUBLIC OF NAURU
+(Heading as in Form No 11) I A B of make oath and say: 1 I am the wife * husband of C D of (hereinafter called the respondent) 2 The respondent has neglected to provide reasonable maintenance for me * the child(ren) of our family * me and the child(ren) of our family 3 On the day of 20 I (in the case of an application by a wife) being then (state full name and status before the marriage) * (in the case of an application by a husband) who was then (state respondent’s full name and status before marriage) was lawfully married to the respondent at 4 There is * are * (state number) child(ren) of the family now living + namely (state the name of each child and his or her date of birth or if it be the case that he or she is 21 or over and in the case of each minor child over the age of 16 whether he or she is or will be or if an order or provision were made would be receiving instruction at an educational establishment or undergoing training for a trade profession or vocational) who is now residing at (state the place) with (state the person) 5 There have been no previous proceedings in any court in the Republic or elsewhere with reference to the marriage * the child(ren) of the family + except (state the nature of the proceedings the date and effect of any decree or order and in the case of proceedings with reference to the marriage whether there has been any resumption of cohabitation since the making of the decree or order) 6 The following are particulars of the wilful neglect by the respondent to provide reasonable maintenance for me * for the said child(ren) (state names) * for me and the said child(ren) (state names) (give particulars of the wilful neglect) 7 The respondent has not made any payments to me by way of maintenance for myself * the said child(ren) * myself and the said child(ren) + except (give particulars) 8 My means are as follows— 9 To the best of my knowledge and belief the respondent’s means are as follows— 10 I apply for an order than the respondent do make provision by way of periodical payments for me + and for (state name(s)) of child(ren) in respect of whom such claim is made) 11 I ask that I may be granted the custody of the said (state name(s) of the child(ren)) 12 This court has jurisdiction to entertain these proceedings by reason of the fact that the respondent and I are resident in the Republic (or as the case may be) Sworn by the said A B ) at this ) day of ) 20 ) Before me Commissioner for Oaths * Delete whichever is not applicable + Delete if not applicable
+[Form 12 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM NO 13
+REPUBLIC OF NAOERO
 MATRIMONIAL CAUSES ACT 1973
 [Rule 44(1)]
 ORIGINATING SUMMONS FOR ALTERATION OF A MAINTENANCE AGREEMENT
@@ -191,13 +215,16 @@ An affidavit by A B as to reasons for seeking the alteration(s) is attached to t
 PLEASE NOTE THAT IF YOU DO NOT ATTEND AS REQUIRED THE APPLICATION WILL BE HEARD AND DETERMINED IN YOUR ABSENCE
 PLEASE NOTE ALSO THAT IF YOU WISH TO OPPOSE THE APPLICATION YOU SHALL LODGE IN THE OFFICE OF THE COURT NOT LESS THAN 3 DAYS BEFORE THE DATE FIXED FOR THE HEARING OF THIS APPLICATION. AN AFFIDAVIT STATING THE GROUNDS ON WHICH YOU OPPOSE IT AND DENYING SUCH OF THE FACTS ALLEGED BY THE APPLICANT AS YOU DO NOT ADMIT
 You shall complete and detach the acknowledgement of service and send it so as to reach the court within 14 days after you receive this notice inclusive of the day of receipt. Delay in returning the form may add to the costs
-If you intend to instruct a legal practitioner to act for you, you should at once give him or her all the documents which have been served on you so that he or she may take the necessary steps on your behalf The Applicant’s address for service is
-DATED this day of 20 Deputy Registrar of the Family Court (Here set out Form No 6) * Delete whichever is not applicable FORM NO 14
-REPUBLIC OF NAURU
+If you intend to instruct a legal practitioner to act for you, you should at once give him or her all the documents which have been served on you so that he or she may take the necessary steps on your behalf
+The Applicant’s address for service is DATED this day of 20 Deputy Registrar of the Family Court (Here set out Form No 6) * Delete whichever is not applicable
+[Form 13 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM NO 14
+REPUBLIC OF NAOERO
 MATRIMONIAL CAUSES ACT 1973
 [Rule 44(2)]
 AFFIDAVIT IN SUPPORT OF APPLICATION UNDER SECTION 35 OF THE ACT
-(Heading as in Form No 13) I A B of make oath and say: 1 I am the wife * husband of C D of (hereinafter called the respondent) and apply for an order altering the maintenance agreement made between me and the respondent on the 20 2 I reside at , and the respondent resides at We are both domiciled in Nauru (or as the case may be) 3 On the day of 20 I was lawfully married to the respondent at , in the case of an application by the husband) The respondent was then (state full name and status of wife before marriage) 4 There is * are * (state number) child(ren) of the family + namely (state the name of each child now living and his or her date of birth or if it be the case that he or she is 21 or over and in the case of each minor child over the age of 16 whether he or she is or will be or if an order or provision were made would be receiving instruction at an educational establishment or undergoing training tor a trade profession or vocation) who is now residing at (state the place) with (state the person) + (state name of any child who has died since the date of the agreement) died on the day of 20 + The agreement also makes financial arrangements for (give similar particulars of any other child for whom the agreement makes such arrangements) 5 There have been no previous proceedings in any court with reference to the agreement or the marriage */to the child(ren) of the family */to the other child(ren) for whom the agreement makes financial arrangements + except (state the nature of the proceedings and the date and effect of any order or decree) 6 My means are as follows— 7 I ask for the following alteration(s) to be made in the agreement— 8 The facts on which I rely to justify the alteration(s) are—
+(Heading as in Form No 13) I A B of make oath and say: 1 I am the wife * husband of C D of (hereinafter called the respondent) and apply for an order altering the maintenance agreement made between me and the respondent on the 20 2 I reside at , and the respondent resides at We are both domiciled in Naoero (or as the case may be) 3 On the day of 20 I was lawfully married to the respondent at , in the case of an application by the husband) The respondent was then (state full name and status of wife before marriage) 4 There is * are * (state number) child(ren) of the family + namely (state the name of each child now living and his or her date of birth or if it be the case that he or she is 21 or over and in the case of each minor child over the age of 16 whether he or she is or will be or if an order or provision were made would be receiving instruction at an educational establishment or undergoing training tor a trade profession or vocation) who is now residing at (state the place) with (state the person) + (state name of any child who has died since the date of the agreement) died on the day of 20 + The agreement also makes financial arrangements for (give similar particulars of any other child for whom the agreement makes such arrangements) 5 There have been no previous proceedings in any court with reference to the agreement or the marriage */to the child(ren) of the family */to the other child(ren) for whom the agreement makes financial arrangements + except (state the nature of the proceedings and the date and effect of any order or decree) 6 My means are as follows— 7 I ask for the following alteration(s) to be made in the agreement— 8 The facts on which I rely to justify the alteration(s) are—
 Sworn by the said A B ) at this ) day of ) 20 ) Before me
 Commissioner for Oaths
 * Delete whichever is not applicable + Delete if not applicable
+[Form 14 am Act 21 of 2026 s 5, opn 12 May 2026]

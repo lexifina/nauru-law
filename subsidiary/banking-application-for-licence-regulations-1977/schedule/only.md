@@ -1,8 +1,9 @@
 # SCHEDULE
-REPUBLIC OF NAURU
+REPUBLIC OF NAOERO
 BANKING ACT 1975
 [Section 5 and Regulation 2]
 APPLICATION FOR LICENCE TO CARRY ON BANKING BUSINESS IN THE REPUBLIC AS A FINANCIAL INSTITUTION
+[Sch am Act 21 of 2026 s 5, opn 12 May 2026]
 To: The Minister for Finance and Sustainable Development,
 Name of corporation (or foreign corporation) to which licence is to be granted (or proposed name of corporation):
 Has the corporation been incorporated (or the foreign corporation been registered in the Republic):

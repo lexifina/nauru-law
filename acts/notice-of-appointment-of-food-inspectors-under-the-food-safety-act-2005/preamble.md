@@ -1,6 +1,7 @@
 Notice of Appointment of Food
 Inspectors under the Food Safety
 Act 2005
+[instr am Act 21 of 2026 s 5, opn 12 May 2026]
 PURSUANT to the power vested in me under Section 19(1) of the Food Safety Act 2005 (‘Act’), I hereby appoint the following suitably qualified persons as food inspectors to administer and enforce the provisions of the Act, its regulations and standards:
 1. Iivan Aingimea 2. Felila Peter 3. Yukio Peter 4. Rirry Ribena Andrews 5. Goska Diema 6. Wyatt Bonang Benjamin 7. Dartagneu Bop 8. Hyden Duburiya 9. Erik Duburiya 10. John-Dale Akibwib 11. Opah Thoma
 Powers of food inspector(s):

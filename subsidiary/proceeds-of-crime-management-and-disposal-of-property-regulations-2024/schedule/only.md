@@ -1,5 +1,5 @@
 # SCHEDULE FORM 1
-REPUBLIC OF NAURU
+REPUBLIC OF NAOERO
 [Regulation 7(2)]
 REPORT BY LAW ENFORCEMENT AUTHORITY OF PROPERTY SEIZED TO THE DIRECTOR OF PUBLIC PROSECUTIONS
 [insert date]
@@ -11,8 +11,9 @@ Signature
 [Insert name]
 [insert office/rank]
 [insert name of law enforcement authority]
+[Form 1 am Act 21 of 2026 s 5, opn 12 May 2026]
 FORM 2
-REPUBLIC OF NAURU
+REPUBLIC OF NAOERO
 [Regulation 8(1)(c)]
 INVENTORY BY LAW ENFORCEMENT AUTHORITY OF CURRENCY OR CASH SEIZED, TO THE DIRECTOR OF PUBLIC PROSECUTIONS
 1 I [insert name of officer] of the [name of law enforcement authority] notify the Director of Public Prosecutions that the following currency/cash was seized and detained:
@@ -22,8 +23,9 @@ Signature
 [Insert name]
 [insert office/rank]
 [insert name of law enforcement authority]
+[Form 2 am Act 21 of 2026 s 5, opn 12 May 2026]
 FORM 3
-REPUBLIC OF NAURU
+REPUBLIC OF NAOERO
 [Regulation 9(2)]
 INFORMING THE SUPERVISOR/ADMINISTRATOR OF PROPERTY/FUNDS FROZEN PURSUANT TO A DESIGNATION MADE UNDER AN UNSC RESOLUTION
 [insert date]
@@ -36,8 +38,9 @@ Signature
 [Insert name]
 [insert office/rank]
 [insert name of office and entity]
+[Form 3 am Act 21 of 2026 s 5, opn 12 May 2026]
 FORM 4
-REPUBLIC OF NAURU
+REPUBLIC OF NAOERO
 [Regulation 10(1)]
 INFORMING THE ADMINISTRATOR OF PROPERTY OR FUNDS SEIZED OR RESTRAINED
 [insert date]
@@ -51,8 +54,10 @@ Signature
 [Insert name]
 [insert office/rank]
 [insert name of law enforcement authority]
-Note: This letter must be given to the Administrator within 7 days of seizure, restraining of property or from the date the court issues the restraining order. FORM 5
-REPUBLIC OF NAURU
+Note: This letter must be given to the Administrator within 7 days of seizure, restraining of property or from the date the court issues the restraining order.
+[Form 4 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM 5
+REPUBLIC OF NAOERO
 [Regulation 10(3)]
 INVENTORY OF PROPERTY SEIZED AND RESTRAINED
 [insert date]
@@ -65,8 +70,9 @@ Signature
 [Insert name]
 [Administrator]
 [Office Administrator]
+[Form 5 am Act 21 of 2026 s 5, opn 12 May 2026]
 FORM 6
-REPUBLIC OF NAURU
+REPUBLIC OF NAOERO
 [Regulation 10(4)]
 DEMAND BY ADMINISTRATOR OF ACCESS, CUSTODY AND CONTROL OF RESTRAINED PROPERTY
 [insert date]
@@ -78,16 +84,19 @@ Signature
 [Insert name]
 [Administrator]
 [Office of Administrator]
+[Form 6 am Act 21 of 2026 s 5, opn 12 May 2026]
 FORM 7
-REPUBLIC OF NAURU
+REPUBLIC OF NAOERO
 [Regulation 16(1)]
 ORIGINATING SUMMONS FOR ORDER TO DISPOSE DETERIORATING OR UNDESIRABLE PROPERTY
 Civil Cause No/Criminal Matter No
 In the Supreme Court
 Administrator, Applicant
 1 Let the applicant be heard by a Judge*/the Registrar in chambers at the Court House at Yaren on. . . . . . . . . . . . . . .20. . . . . . . at am/pm on this application for the disposal of deteriorating or undesirable property seized or restrained. 2 [State the basis of the application eg it is not in the public interest to preserve or store such property].
-*delete whichever is not applicable FORM 8
-REPUBLIC OF NAURU
+*delete whichever is not applicable
+[Form 7 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM 8
+REPUBLIC OF NAOERO
 [Regulation 17(1)]
 ORIGINATING SUMMONS FOR ORDER TO SELL DETERIORATING OR UNDESIRABLE PROPERTY
 Civil Cause No/Criminal Matter No
@@ -95,3 +104,4 @@ In the Supreme Court
 Administrator, Applicant
 1 Let the applicant be heard by a Judge*/the Registrar in chambers at the Court House at Yaren on. . . . . . . . . . . . . . .20. . . . . . . at am/pm on this application for the disposal of deteriorating or undesirable property seized or restrained. 2 [State the basis of the application eg it is not in the public interest to preserve or store such property].
 *delete whichever is not applicable
+[Form 8 am Act 21 of 2026 s 5, opn 12 May 2026]

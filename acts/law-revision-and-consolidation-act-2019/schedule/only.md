@@ -1,6 +1,7 @@
 # SCHEDULE
 Table of Provisions
 REVISED WRITTEN LAWS OF THE REPUBLIC BILL 20XX
+[Sch 1 am Act 21 of 2026 s 5, opn 12 May 2026]
 Page
 Short title ................................................. ...... ?
 Commencement ................................................. ?
@@ -15,7 +16,7 @@ Publication of appendices, etc ................................... ?
 Supplements .................................................. .. ?
 Part of Revised Edition ......................................... ?
 Notes and tables ................................................ ? A Bill for an Act to provide to bring into force the revised written laws of the Republic.
-Enacted by the Parliament of Nauru as follows:
+Enacted by the Parliament of Naoero as follows:
 1 Short title This Act may be cited as the Revised Written Laws of the Republic Act 20XX.
 2 Commencement This Act commences upon certification by the Speaker.
 3 Commencement of revised written laws Subject to this Act, the revised written laws of the Republic. . . . in this Act, called the Revised Written Laws 20XX, come into force as provided in this Act, on the . . . . day of. . . . . . . . . . ., 20XX.

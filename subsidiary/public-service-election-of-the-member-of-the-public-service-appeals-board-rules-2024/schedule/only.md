@@ -1,5 +1,5 @@
 # SCHEDULE FORM 1
-REPUBLIC OF NAURU
+REPUBLIC OF NAOERO
 [Rule 10(2)]
 NOMINATION OF THE MEMBER OF THE PUBLIC SERVICE APPEALS BOARD
 We hereby nominate [insert name of nominee] of [insert place of residence] who currently holds the position of [insert position] in the [insert name of Department] to be appointed as the member of the Public Service Appeals Board.
@@ -17,14 +17,17 @@ DATED this ...................day of ...................20......... ............
 [insert name of Nominee]
 [insert name of position]
 [insert name of Department]
+[Form 1 am Act 21 of 2026 s 5, opn 12 May 2026]
 FORM 2
-REPUBLIC OF NAURU
+REPUBLIC OF NAOERO
 [Rule 11]
 BALLOT PAPER FOR ELECTION OF MEMBER OF THE PUBLIC SERVICE APPEALS BOARD
 Indicate your preference by placing a √ (tick) beside the name of your preferred nominee
 NO Name of Nominee Place your tick in the box below next to your preferred nominee. 1 *[SURNAME] [insert other names] 2 [SURNAME] [insert other names] 3 [SURNAME] [insert other names]
-*The surnames of nominees must be listed in alphabetical order. FORM 3
-REPUBLIC OF NAURU
+*The surnames of nominees must be listed in alphabetical order.
+[Form 2 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM 3
+REPUBLIC OF NAOERO
 [Rule 15(6)]
 DECLARATION OF RESULTS
 TOTAL NUMBER OF VOTES CAST
@@ -38,3 +41,4 @@ I hereby declare Mr/Ms [insert the name] as the duly elected member of the Publi
 Dated this...................day of.........20.........
 [signature of returning officer]
 [insert name of returning officer]
+[Form 3 am Act 21 of 2026 s 5, opn 12 May 2026]

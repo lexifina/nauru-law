@@ -1,2 +1,3 @@
 An Act relating to Compensation to Workers for Injuries by Accident arising out of or in the course of their Employment, and for other purposes.
-BE it ordained by the Administrator of the Island of Nauru, acting in pursuance of the powers conferred by Article 1 of the Agreement dated the second day of July, 1919, between the Government of the United Kingdom, the Government of the Commonwealth of Australia and the Government of the Dominion of New Zealand, and adopted by the Republic.
+BE it ordained by the Administrator of the Island of Naoero, acting in pursuance of the powers conferred by Article 1 of the Agreement dated the second day of July, 1919, between the Government of the United Kingdom, the Government of the Commonwealth of Australia and the Government of the Dominion of New Zealand, and adopted by the Republic.
+[cl am Act 21 of 2026 s 5, opn 12 May 2026]

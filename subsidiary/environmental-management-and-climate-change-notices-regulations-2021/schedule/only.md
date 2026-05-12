@@ -1,5 +1,5 @@
 # SCHEDULE FORM 1
-REPUBLIC OF NAURU
+REPUBLIC OF NAOERO
 ENVIRONMENTAL MANAGEMENT AND CLIMATE CHANGE ACT 2020
 [Section 43; Regulation 3]
 PRECAUTIONARY NOTICE Notice No: PC. . . / 20. . .
@@ -11,7 +11,7 @@ The details required are to be submitted in the duly completed form “Informati
 TAKE NOTICE that if you fail to comply with this Notice, you will be prosecuted and upon conviction, you will be liable to a fine not exceeding $10,000 or term of imprisonment not exceeding 24 months or to both such fine and term of imprisonment.
 Name of Authorised Officer*: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Signature: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Date: . . . ./. . . . . . ./20. . . .
 *Duly appointed authorised officer under the Environmental Management and Climate Change Act 2020. ACKNOWLEDGEMENT OF SERVICE Full name of person in control of activity or matter Signature of person in control of activity or matter
-REPUBLIC OF NAURU ENVIRONMENTAL MANAGEMENT AND CLIMATE CHANGE ACT 2020
+REPUBLIC OF NAOERO ENVIRONMENTAL MANAGEMENT AND CLIMATE CHANGE ACT 2020
 [Section 43; Regulation 3]
 INFORMATION PROVIDED PURSUANT TO PRECAUTIONARY NOTICE
 NOTE:
@@ -26,8 +26,10 @@ To: Secretary for Commerce, Industry and Environment Government Offices, Yaren D
 7 List waste materials or any by-products of activity or matter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 8 How and where waste material or by-products disposed of . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 . . . . . . . . . . . . . . . . . . . . . . . . . [name of person in control of activity or matter] . . . . . . . . . . . . . . . . . . . . . . . . . [signature of person in control of activity or matter]
-Date:. . . ./. . . . . . ./20. . . . FORM 2
-REPUBLIC OF NAURU
+Date:. . . ./. . . . . . ./20. . . .
+[Form 1 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM 2
+REPUBLIC OF NAOERO
 ENVIRONMENTAL MANAGEMENT AND CLIMATE CHANGE ACT 2020
 [Section 44; Regulation 4]
 NOTICE TO CEASE ACTIVITY OR MATTER Notice No: NC. . . / 20. . .
@@ -35,16 +37,20 @@ To: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[Name of person i
 TAKE NOTICE as the person in control of or carrying out such activity or matter, you are to cease all such activity or matter with immediate effect until such time the Minister is satisfied that the environmental impacts no longer exist.
 PENALTY: a failure to comply with this Notice will result in prosecution and you may be liable to a fine not exceeding $10,000 or term of imprisonment not exceeding 24 months or to both such fine and term of imprisonment.
 Dated this. . . . . . of. . . . . . . . . . . . . . . . . . . . . .20. . . .
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Secretary for Commerce, Industry and Environment ACKNOWLEDGEMENT OF SERVICE Full name of person in control of activity or matter Signature of person in control of activity or matter FORM 3
-REPUBLIC OF NAURU
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Secretary for Commerce, Industry and Environment ACKNOWLEDGEMENT OF SERVICE Full name of person in control of activity or matter Signature of person in control of activity or matter
+[Form 2 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM 3
+REPUBLIC OF NAOERO
 ENVIRONMENTAL MANAGEMENT AND CLIMATE CHANGE ACT 2020
 [Sections 43(2)(c) and 45; Regulation 5]
 NOTICE TO IMPROVE, AVOID OR DECREASE ENVIRONMENTAL IMPACT Notice No: NI. . . / 20. . .
 To: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[Name of person in control of activity or matter] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[Address] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[Contact details] TAKE NOTICE that as the person in control of the following activity or matter in the district of. . . . . . . . . . . . [insert district], 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . you are required to undertake the following actions to [improve/avoid/decrease] any environmental impact: [insert necessary action] 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 PENALTY: a failure to comply with this Notice will result in prosecution and you may be liable to a fine not exceeding $10,000 or term of imprisonment not exceeding 24 months or to both such fine and term of imprisonment.
 Name of Authorised Officer*: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Signature: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Date: . . . ./. . . . . . ./20. . . .
-*Duly appointed authorised officer under the Environmental Management and Climate Change Act 2020. ACKNOWLEDGEMENT OF SERVICE Full name of person in control of activity or matter Signature of person in control of activity or matter FORM 4
-REPUBLIC OF NAURU
+*Duly appointed authorised officer under the Environmental Management and Climate Change Act 2020. ACKNOWLEDGEMENT OF SERVICE Full name of person in control of activity or matter Signature of person in control of activity or matter
+[Form 3 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM 4
+REPUBLIC OF NAOERO
 ENVIRONMENTAL MANAGEMENT AND CLIMATE CHANGE ACT 2020
 [Section 46; Regulation 6]
 PROHIBITION NOTICE Notice No: PN. . . / 20. . .
@@ -53,3 +59,4 @@ You are to forthwith stop carrying out such activities or matters. This prohibit
 PENALTY: a failure to comply with this Notice will result in prosecution and you may be liable to a fine not exceeding $10,000 or term of imprisonment not exceeding 24 months or to both such fine and term of imprisonment.
 Dated this. . . . . . of. . . . . . . . . . . . . . . . . . . . . .20. . . .
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Secretary for Commerce, Industry and Environment
+[Form 4 am Act 21 of 2026 s 5, opn 12 May 2026]

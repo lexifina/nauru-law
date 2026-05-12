@@ -1,3 +1,4 @@
 Rule of Court 1999
-Pursuant to Sections 74 (d) and (g) of the Courts Act 1972 and Section 118 of the Criminal Procedure Act 1972, I, GAVEN JOHN DONNE, CHIEF JUSTICE of Nauru DO HEREBY MAKE the following Rule:
+Pursuant to Sections 74 (d) and (g) of the Courts Act 1972 and Section 118 of the Criminal Procedure Act 1972, I, GAVEN JOHN DONNE, CHIEF JUSTICE of Naoero DO HEREBY MAKE the following Rule:
+[cl am Act 21 of 2026 s 5, opn 12 May 2026]
 A. Costs - 1. Wherein the District Court an offender is convicted of an offence or discharged by it under any written law following a finding that he or she is guilty of an offence, the Court may order the offender to pay the costs of the hearing by the Court of the proceedings in relation to the offence. 2. Subject to the Court deciding otherwise the costs to be ordered pursuant to subrule (1) shall be FIVE DOLLARS ($5) in respect of each offence heard by the Court. 3. Costs ordered under this Rule shall be paid into the Treasury Fund. B. This Rule will come into effect on the 1st day of April, 1999.

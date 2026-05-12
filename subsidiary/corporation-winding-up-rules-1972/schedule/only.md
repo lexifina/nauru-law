@@ -48,13 +48,15 @@ CORPORATIONS ACT 1972
 CORPORATION (WINDING-UP) RULES 1972
 [Rule 14]
 Name of corporation:
-Address of corporation’s registered office in Nauru:
+Address of corporation’s registered office in Naoero:
 Take notice that a petition by of for the winding-up of the above trading corporation by the District Court under the provisions of the Corporations Act 1972 is directed to be heard at the Court House at Yaren at a.m.*/p.m. on 20 .
 Any member or creditor of the corporation who wishes to support or oppose the petition is required to notify the petitioner in the prescribed form by not later than a.m.* /p.m. on the , 20 .
 Any contributory or creditor who fails so to notify the petitioner by that time will not be entitled to appear on the hearing of the petition except with the leave of the Court.
 Dated the day of , 20 ,
 Petitioner.
-* Delete whichever is not applicable. FORM 5
+* Delete whichever is not applicable.
+[Form 4 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM 5
 STATEMENT TO ACCOMPANY LIQUIDATOR’S SUMMONS FOR RELEASE
 FORM NO CORP/W-U/5
 CORPORATIONS ACT 1972

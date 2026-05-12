@@ -1,5 +1,5 @@
 # SCHEDULE FORM
-REPUBLIC OF NAURU
+REPUBLIC OF NAOERO
 PUBLIC FINANCE (CONTROL AND MANAGEMENT) ACT 1997
 Public Finance (Government Vehicles Write-Off) Regulations 2024
 REQUEST FOR WRITING OFF OF VEHICLE
@@ -31,3 +31,4 @@ PART 7 — APPROVAL BY THE MINISTER Minister’s approval
 I hereby approve that the vehicle referred to above be written-off and direct that it be disposed of in accodance with the law.
 Minister for Finance: Signature:. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Date: . . . . . . . . . . . . . . .
+[Form am Act 21 of 2026 s 5, opn 12 May 2026]

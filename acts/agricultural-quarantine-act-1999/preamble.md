@@ -1,2 +1,3 @@
 An Act to provide for the protection of plants, animals and public health and the protection, development and utilisation of natural resources and the environment by preventing the introduction and further spread of injurious diseases and pests; to provide procedures and facilities for services to ensure the safe movement of plants and animals into, out of and within the Republic; to extend obligatory international cooperation in the prevention of the movement of diseases and pests in international trade and traffic; and for related purposes.
-Enacted by the Parliament of Nauru as follows:
+Enacted by the Parliament of Naoero as follows:
+[cl am Act 21 of 2026 s 5, opn 12 May 2026]

@@ -11,7 +11,8 @@ The appellant accordingly prays –
 Dated the day of 20 .
 Appellant*/Barrister and
 solicitor*/pleader for appellant
-The appellant’s address in Nauru for service of process and documents in this appeal is –
+The appellant’s address in Naoero for service of process and documents in this appeal is –
 ENDORSEMENT
 The appeal will be heard by the Supreme Court at the Court House at Yaren at a.m.*/p.m. on the of , 20 .
 *Delete whichever is not applicable.
+[Form 1 am Act 21 of 2026 s 5, opn 12 May 2026]

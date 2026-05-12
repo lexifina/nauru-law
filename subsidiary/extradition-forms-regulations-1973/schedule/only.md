@@ -1,6 +1,6 @@
 # SCHEDULE FORM 1
 FORM NO EXT/1
-REPUBLIC OF NAURU
+REPUBLIC OF NAOERO
 EXTRADITION ACT 1973
 AUTHORITY TO PROCEED
 [Section 7]
@@ -12,9 +12,11 @@ AND I hereby also authorise the District Court, upon the said being brought befo
 DATED the day of 20 .
 Minister for Foreign Affairs
 * Delete whichever is not applicable
-# Delete if not required FORM 2
+# Delete if not required
+[Form 1 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM 2
 FORM NO EXT/2
-REPUBLIC OF NAURU EXTRADITION ACT 1973
+REPUBLIC OF NAOERO EXTRADITION ACT 1973
 WARRANT OF ARREST
 [Section 8(1)(a)]
 To Commissioner of Police Warrant No
@@ -24,9 +26,11 @@ AND WHEREAS the Minister for Foreign Affairs has authorised me to issue a warran
 YOU ARE HEREBY authorised and required to arrest the said and to bring him or her as soon as practicable before the District Court at the Court House at Yaren.
 DATED the day of 20 .
 Resident Magistrate
-* Delete whichever is not applicable FORM 3
+* Delete whichever is not applicable
+[Form 2 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM 3
 FORM NO EXT/3
-REPUBLIC OF NAURU EXTRADITION ACT 1973
+REPUBLIC OF NAOERO EXTRADITION ACT 1973
 PROVISIONAL WARRANT OF ARREST
 [Section 8(1)(b)]
 To Commissioner of Police Warrant No
@@ -35,9 +39,11 @@ AND WHEREAS I have been informed by that , late of , is accused of */unlawfully 
 YOU ARE HEREBY authorised and required to arrest the said and to bring him or her as soon as practicable before the District Court at the Court House at Yaren.
 DATED the day of 20 .
 Resident Magistrate
-* Delete whichever is not applicable FORM 4
+* Delete whichever is not applicable
+[Form 3 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM 4
 FORM NO EXT/4
-REPUBLIC OF NAURU EXTRADITION ACT 1973
+REPUBLIC OF NAOERO EXTRADITION ACT 1973
 WARRANT OF COMMITTAL FOR SAFE CUSTODY
 [Section 9(2)]
 In the District Court Warrant No
@@ -49,9 +55,11 @@ AND WHEREAS the said has been arrested and brought before this court under the p
 You, the said Commissioner of Police, are authorised and required to take the said into your custody and to convey him or her to the correctional centre and there deliver him or her to the Chief Correctional Officer;
 And you, the Chief Correctional Officer, are authorised and required to receive the said into your custody and to keep him or her in the correctional centre and produce him or her before this court on the day of 20 at
 Resident Magistrate
-* Delete whichever is not applicable FORM 5
+* Delete whichever is not applicable
+[Form 4 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM 5
 FORM NO EXT/5
-REPUBLIC OF NAURU EXTRADITION ACT 1973
+REPUBLIC OF NAOERO EXTRADITION ACT 1973
 WARRANT OF COMMITTAL PENDING RETURN TO REQUESTING COUNTRY
 [Section 9(4)]
 In the District Court Warrant No
@@ -63,9 +71,11 @@ AND WHEREAS the District Court is satisfied that there is sufficient evidence to
 You, the said Commissioner of Police, are authorised and required to take the said into your custody and to convey him or her to the correctional centre and there deliver him or her to the Chief Correctional Officer;
 And you, the Chief Correctional Officer, are authorised and required to receive the said into your custody and to keep him or her in the correctional centre to await his or her return to .
 Dated the day of 20 .
-Resident Magistrate FORM 6
+Resident Magistrate
+[Form 5 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM 6
 FORM NO EXT/6
-REPUBLIC OF NAURU EXTRADITION ACT 1973
+REPUBLIC OF NAOERO EXTRADITION ACT 1973
 WARRANT FOR RETURN OF OFFENDER
 [Section 11(1)]
 To the Chief Correctional Officer Warrant No
@@ -77,9 +87,11 @@ I HEREBY ORDER that the said be returned to ;
 AND I hereby authorise and require the Chief Correctional Officer of the correctional centre to deliver the said to for his or her said return to ;
 AND I hereby authorise to receive the said into his or her custody and to take him or her out of the Republic to and there to deliver him or her into the custody of such person as is appointed to receive him or her.
 Dated the day of 20 .
-Minister for Foreign Affairs FORM 7
+Minister for Foreign Affairs
+[Form 6 am Act 21 of 2026 s 5, opn 12 May 2026]
+FORM 7
 FORM NO EXT/7
-REPUBLIC OF NAURU EXTRADITION ACT 1973
+REPUBLIC OF NAOERO EXTRADITION ACT 1973
 DISCHARGE OF OFFENDER
 [Section 11]
 To the Chief Correctional Officer
@@ -89,3 +101,4 @@ NEVERTHELESS it appears to me that
 and I, therefore, order you to discharge the said from your custody forthwith.
 Dated the day of 20 .
 Minister for Foreign Affairs
+[Form 7 am Act 21 of 2026 s 5, opn 12 May 2026]

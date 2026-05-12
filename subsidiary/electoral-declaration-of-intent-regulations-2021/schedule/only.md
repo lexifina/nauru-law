@@ -1,5 +1,5 @@
 # SCHEDULE FORM 1
-REPUBLIC OF NAURU
+REPUBLIC OF NAOERO
 Electoral Act 2016
 [Section 135A(1); Regulation 3]
 DECLARATION OF INTENT TO CONTEST GENERAL ELECTION
@@ -17,9 +17,9 @@ PART 3: OFFICIAL PURPOSES Declaration received by:
 Name:. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Signature:. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Designation:. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 [Electoral Commissioner/Registrar/Staff]
 Date:. . . . . . . ./. . . . . . . . . . . . . . . . . . . . . . . . . . . ./20. . . . . NOTICE Section 135A(5) of the Electoral Act 2016 makes it an offence for a person who fails to deliver a declaration of intent to contest the general election and gets nominated as a candidate. The offence carries a penalty of up to 2 years imprisonment or a fine of not more than $5,000 or to both.
-[Form 1 heading am SL 33 of 2021 reg 5, opn 5 Nov 2021]
+[Form 1 heading am SL 33 of 2021 reg 5, opn 5 Nov 2021; Act 21 of 2026 s 5, opn 12 May 2026]
 FORM 2
-REPUBLIC OF NAURU
+REPUBLIC OF NAOERO
 Electoral Act 2016
 [Section 135A(3); Regulation 4]
 NOTICE OF DELIVERY OF WRITTEN DECLARATION OF INTENT TO CONTEST GENERAL ELECTION FOR 20. . . .
@@ -31,9 +31,9 @@ DATED this ................... day of ...................................... 20.
 NOTICE
 FORM OF DECLARATION OF INTENT
 A declaration of intent to contest the General Election for 20. . . . is to be made in the attached prescribed Form 1 of the Electoral (Declaration of Intent) Regulations 2021.
-[Form 2 am SL 33 of 2021 reg 5, opn 5 Nov 2021]
+[Form 2 am SL 33 of 2021 reg 5, opn 5 Nov 2021; Act 21 of 2026 s 5, opn 12 May 2026]
 FORM 3
-REPUBLIC OF NAURU
+REPUBLIC OF NAOERO
 Electoral Act 2016
 [Section 135A(4); Regulation 5]
 LIST OF PERSONS WHO HAVE DELIVERED DECLARATIONS OF INTENT TO CONTEST GENERAL ELECTION FOR 20. . . .
@@ -43,8 +43,9 @@ NAME OF PERSON DATE CONSTITUENCY WHO HAS DECLARATION OF INTENDING TO CONTEST DEL
 DATED this ................... day of ...................................... 20.........
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 [Electoral Commissioner] [Electoral Commissioner] [Electoral Commissioner]
+[Form 3 am Act 21 of 2026 s 5, opn 12 May 2026]
 FORM 4
-REPUBLIC OF NAURU
+REPUBLIC OF NAOERO
 Electoral Act 2016
 [Regulation 6(2)]
 LIST OF PERSONS WHO HAVE WITHDRAWN THEIR DECLARATIONS OF INTENT TO CONTEST GENERAL ELECTION FOR 20. . . .
@@ -54,3 +55,4 @@ NAME OF PERSON DATE OF CONSTITUENCY INTENDED WHO HAS WITHDRAWAL TO CONTEST FROM 
 DATED this ................... day of ...................................... 20.........
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 [Electoral Commissioner] [Electoral Commissioner] [Electoral Commissioner]
+[Form 4 am Act 21 of 2026 s 5, opn 12 May 2026]
