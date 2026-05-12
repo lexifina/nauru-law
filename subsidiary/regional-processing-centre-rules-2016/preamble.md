@@ -1,0 +1,2 @@
+These Rules are made under Division 2 of the Asylum Seekers (Regional Processing Centre) Act 2012 (“the Act”) as in force, for the good order and management of the Regional Processing Centre (“the Centre”), and the care and welfare of persons residing there.
+These Rules enter into force upon notification in the Government Gazette. They will be translated and made available to all persons living at, working at, or visiting the Centre. They may be amended from time to time in accordance with the Act. These Rules supersede the Centre Rules dated July 2014.
