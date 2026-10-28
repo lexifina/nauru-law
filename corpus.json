@@ -1,0 +1,62 @@
+{
+  "corpus": "nr/national/acts",
+  "name": "Laws of the Republic of Nauru (Constitution and Public Service Act 2016)",
+  "label": "Nauru",
+  "language": "en",
+  "history_from": "2022-06-08",
+  "record_to": "2026-07-20",
+  "checked_on": "2026-10-28",
+  "record_note": "The Constitution of Nauru 1968 and the Public Service Act 2016 from the RONLAW reprints of the Laws of the Republic of Nauru: each act from its earliest reprint on RONLAW (consolidated to 2022-06-08 and 2022-06-10) to the latest (2026-07-20); checked 2026-10-28.",
+  "history": "in-force",
+  "in_force_trailer": "In-force",
+  "baseline_trailer": "Consolidated",
+  "has_future_branch": false,
+  "acts": {
+    "constitution": {
+      "path": "constitution/",
+      "files": 112,
+      "versions": 5
+    },
+    "public-service-act-2016": {
+      "path": "public-service-act-2016/",
+      "files": 147,
+      "versions": 3
+    }
+  },
+  "built": "2026-10-28",
+  "dates": {
+    "commit": "in-force (the operative date printed in the history note, else the commencement in the Table of Amendments, else the reprint's consolidation date)",
+    "baseline_trailer": "Consolidated",
+    "other_trailers": [
+      "Cited-as",
+      "Evidence",
+      "Candidate"
+    ],
+    "time": "12:00 Pacific/Nauru (UTC+12, no summer time)",
+    "before_1970": "none"
+  },
+  "author": {
+    "amendment": "the amending Act (or GN)",
+    "consolidated": "RONLAW (Department of Justice and Border Control)",
+    "several-acts": "RONLAW, with Candidate trailers",
+    "unexplained": "RONLAW, with Candidate trailers",
+    "evidence_trailer": "Evidence"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "groups": "any one line",
+    "conditions": "all of a line",
+    "when_absent": "no scope note found; not a statement that the change reaches every case",
+    "default_reach": {
+      "rule": "presumption against retroactivity",
+      "meaning": "a written law does not commence retrospectively unless it clearly says so, and a repeal or amendment does not affect the previous operation of the law, rights acquired or accrued, or proceedings already begun under it",
+      "authority": "Interpretation Act 2011 (Nauru), sections 22(3) and 28(1); section 21: a provision commences at the beginning of its day",
+      "decided_here": false
+    }
+  },
+  "tool": "tools/in_force_on.py",
+  "citation": {
+    "file": "(constitution/article|public-service-act-2016/section)/0*([0-9]+[A-Z]*)\\.md",
+    "cites": "([Aa]rticle|[Ss]ection) ?{n}([^0-9A-Z]|$)"
+  }
+}

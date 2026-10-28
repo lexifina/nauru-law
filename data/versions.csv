@@ -1,0 +1,17 @@
+act,as_at,source,sha256,services,pdf_moddate,amendments_listed,files,role
+constitution,2022-06-08,/docs/acts/1968/Constitution_of_Nauru_1968.pdf,fb8b113c4d6ac1daf30a5b4c26e270ecb25af6a0e5a2f6c08efe34c86d4b307b,0 1,D:20220831093730+08'00',8,108,used
+constitution,2025-03-11,/docs/constitution/1968/Constitution of Nauru 1968.pdf,18c7d60f5735604685db9ae59bf8f106a3e40790d3580d90ea5dc43a6eaa1070,0 1 4,D:20250324143909+08'00',9,108,used
+constitution,2025-03-11,/docs/acts/1968/Constitution of Nauru 1968_serv4.pdf,,,,,,same date; differs in 0 file(s):
+constitution,2026-01-14,/docs/acts/1968/Constitution of Nauru_serv5 (1).pdf,c2a8c287b92e981e372b947bd49ddf82e9f988f4acedd15d9d74332ab70301dc,0 1 5,D:20260128100857+08'00',10,108,used
+constitution,2026-04-16,/docs/acts/1968/Constitution of Nauru 1968_serv5 (3).pdf,2919780e38c1898609eb5086a7f0298e352432fbb1851a01dfdb869c355ab66e,0 1 5,D:20260507100826+08'00',13,111,used
+constitution,2026-05-12,/docs/acts/1968/Constitution of Naoero 1968_serv6.pdf,66e7153e231dcb6fff6dda925654347016934360304940ce0f0e4f89e79389a6,0 1 5 6,D:20260902145651+08'00',14,112,used
+public-service-act-2016,2022-06-10,/docs/acts/2016/Public Service Act 2016_serv4 (2).pdf,b1546c4ec1b0c5614e64d0852c9206ce80c2c83e9c7e14d5de563373c8b20a0c,0 1 2 3 4,D:20250703080155+08'00',11,145,used
+public-service-act-2016,2022-06-10,/docs/acts/2016/Public Service Act 2016_serv3.pdf,,,,,,same date; differs in 1 file(s): public-service-act-2016/section/4.md
+public-service-act-2016,2022-06-10,/docs/acts/2016/Public Service Act 2016_serv4.pdf,,,,,,same date; differs in 0 file(s):
+public-service-act-2016,2022-06-10,/docs/acts/2016/Public Service Act 2016 serv4 (2).pdf,,,,,,same date; differs in 0 file(s):
+public-service-act-2016,2025-08-29,/docs/acts/2016/Public Service Act 2016_serv5.pdf,f3b05d4c71f8077d67c02e4e69e2430fcd44bf43058f09147fc5f3fbdd5affee,0 1 2 3 4 5,D:20251118094408+08'00',12,146,used
+public-service-act-2016,2025-08-29,/docs/acts/2016/Public Service Act 2016_serv4 (3).pdf,,,,,,same date; differs in 0 file(s):
+public-service-act-2016,2026-07-20,/docs/acts/2016/Public Service Act 2016_serv6.pdf,255ebd393f5bbafa698a8e4a25b24fd6a6fe359dd4190998b14da6ca91033aac,0 1 2 3 4 6,D:20260903151604+08'00',14,147,used
+constitution,,/docs/acts/1968/Constitution of The Repulbic of Nauru.pdf,,,,,,"not used: not a reprint of the Laws of the Republic of Nauru (no Table of Amendments, no service stamps)"
+public-service-act-2016,,/docs/acts/2016/Public Service Act 2016.pdf,,,,,,"not used: not a reprint of the Laws of the Republic of Nauru (no Table of Amendments, no service stamps)"
+constitution,,/docs/constitution/1968/Constitution of The Repulbic of Nauru.pdf,,,,,,"not used: not a reprint of the Laws of the Republic of Nauru (no Table of Amendments, no service stamps)"
