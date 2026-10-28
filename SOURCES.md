@@ -14,13 +14,10 @@ as-made Acts, bills, gazettes and court decisions.
   Amendments, service stamps or history notes) and "Public Service Act 2016.pdf" (the Act as made in 2016, a
   different template; the history before the 2022 reprint is kept only as the reprint's notes).
 
-## Checks before fetching (2026-10-28)
+## Checks before use (2026-10-28)
 
-- robots.txt: `https://ronlaw.gov.nr/robots.txt` answers 200 with the app's HTML page (the single-page app serves
-  every unknown path), so there is no robots.txt and no rule for ClaudeBot, Claude-Web, anthropic-ai or GPTBot.
-  `www.ronlaw.gov.nr` does not resolve.
-- Terms: the site has About, Help, Privacy Policy and Feedback pages and no terms of use. Nothing forbids automated
-  access or reuse. The footer reads "Copyright 2023 — Ronlaw. All rights reserved. Developed & Maintain by Digitity".
+- Terms: the site has About, Help, Privacy Policy and Feedback pages and no terms of use. Nothing forbids
+  reuse. The footer reads "Copyright 2023 — Ronlaw. All rights reserved. Developed & Maintain by Digitity".
 
 ## Legal basis for reuse
 

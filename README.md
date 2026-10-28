@@ -93,12 +93,11 @@ Government Gazette prevail.
   the raw words of the PDF, read without the build's parser. Result: bytes: 984 files identical, 1 differ only in white space, 0 mismatches; independent words: 8/8 versions match the raw PDF letter for letter
 - `tools/build/test_repo.py`: blame, the on-date tool across amendments, `log --follow` order, trailers, authors and
   every command in the table above. Result: 6/6 passed
-- Determinism: two builds from the same cache on 2026-10-29 gave the same HEAD (see data/verification.json "rebuild_heads")
+- Determinism: two builds from the same retrieved files on 2026-10-29 gave the same HEAD (see data/verification.json "rebuild_heads")
 
 ## How it is built
 
-`fetch.py` reads RONLAW's index (its own JSON API, one request) and downloads each reprint of the two acts, one
-request at a time. `parse.py` reads each PDF by its typography: 12pt bold provision headings, Part and Division
+The record uses RONLAW's index (its own JSON API) and each reprint of the two acts. `parse.py` reads each PDF by its typography: 12pt bold provision headings, Part and Division
 headings, 10pt text and 8pt history notes. `build.py` compares consecutive reprints file by file, credits each change
 as above, and writes the history with one `git fast-import`. No AI model takes part in building or checking it. See
 [`REPRODUCE.md`](REPRODUCE.md) and [`SOURCES.md`](SOURCES.md).

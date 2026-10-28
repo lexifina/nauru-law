@@ -4,21 +4,19 @@ Built from RONLAW data retrieved on {{TODAY}} by the scripts in `tools/build/` (
 
 | Script | sha256 |
 | --- | --- |
-| fetch.py | `{{SHA_FETCH_PY}}` |
 | parse.py | `{{SHA_PARSE_PY}}` |
 | build.py | `{{SHA_BUILD_PY}}` |
 | docs.py | `{{SHA_DOCS_PY}}` |
 | check_repo.py | `{{SHA_CHECK_REPO_PY}}` |
 | test_repo.py | `{{SHA_TEST_REPO_PY}}` |
 
-Tools: Python 3.12, PyMuPDF (`pymupdf`), git 2.x, curl (Windows). The PDFs' sha256 are in
-[`data/pdf-sha256.tsv`](data/pdf-sha256.tsv); every request made is in [`data/fetch-log.jsonl`](data/fetch-log.jsonl).
+Tools: Python 3.12, PyMuPDF (`pymupdf`), git 2.x. The PDFs' sha256 are in
+[`data/pdf-sha256.tsv`](data/pdf-sha256.tsv).
 
 ## Steps
 
 ```sh
-# 1. RONLAW's index (one request, 33 MB JSON) and every reprint of the two acts (16 PDFs), one request at a time.
-python fetch.py --index
+# 1. The retrieved files: RONLAW's index (33 MB JSON) and every reprint of the two acts (16 PDFs), where build.py reads them.
 # 2. Build. --today is the retrieval day; it dates the documentation commit.
 python build.py ../nauru-law --today {{TODAY}}
 # 3. Checks.
@@ -28,15 +26,10 @@ python ../global-law/check_corpus.py ../nauru-law
 python ../test_corpus.py ../nauru-law tools/in_force_on.py
 ```
 
-## robots.txt, terms and fetch rate
+## Terms
 
-Checked on 2026-10-28 before fetching. `https://ronlaw.gov.nr/robots.txt` returns the single-page app's HTML (status
-200), so there is no robots.txt: no Disallow, no Crawl-delay, no rule naming ClaudeBot, Claude-Web, anthropic-ai or
-[`SOURCES.md`](SOURCES.md) for the copyright position.
-
-**Fetch rate:** {{REQUESTS}} requests in all ({{PDFS}} PDF downloads; the rest are the index and checks), one at a
-time, sequential, with `curl --compressed` and a browser User-Agent. No request was retried. There is no bulk download;
-the index API is the app's own.
+See [`SOURCES.md`](SOURCES.md) for the terms and the copyright position. There is no bulk download; the index API is
+the app's own.
 
 ## Decisions made by hand
 
@@ -54,8 +47,8 @@ the index API is the app's own.
 ## What the AI did and did not do
 
 The repository was built by Claude Code with Claude Opus 5.5 (`claude-opus-5-5`): it found the source and the API,
-checked robots, terms and the Copyright Act, and wrote the scripts. No AI model writes or edits legal text, and no
-model runs at fetch, data-build or git-build time.
+checked the terms and the Copyright Act, and wrote the scripts. No AI model writes or edits legal text, and no
+model runs at data-build or git-build time.
 
 ## What the build produced
 

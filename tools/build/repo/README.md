@@ -97,8 +97,7 @@ Government Gazette prevail.
 
 ## How it is built
 
-`fetch.py` reads RONLAW's index (its own JSON API, one request) and downloads each reprint of the two acts, one
-request at a time. `parse.py` reads each PDF by its typography: 12pt bold provision headings, Part and Division
+The record uses RONLAW's index (its own JSON API) and each reprint of the two acts. `parse.py` reads each PDF by its typography: 12pt bold provision headings, Part and Division
 headings, 10pt text and 8pt history notes. `build.py` compares consecutive reprints file by file, credits each change
 as above, and writes the history with one `git fast-import`. No AI model takes part in building or checking it. See
 [`REPRODUCE.md`](REPRODUCE.md) and [`SOURCES.md`](SOURCES.md).
