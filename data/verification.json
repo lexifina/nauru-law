@@ -1,0 +1,42 @@
+{
+ "check": {
+  "mismatches": [],
+  "summary": "bytes: 984 files identical, 1 differ only in white space, 0 mismatches; independent words: 8/8 versions match the raw PDF letter for letter"
+ },
+ "rebuild": "two builds from the same cache on 2026-10-29 gave the same HEAD (see data/verification.json \"rebuild_heads\")",
+ "smoke": {
+  "results": [
+   {
+    "detail": "constitution/article/19.md lines by Constitution (Amendment) Act 2026 No 18",
+    "ok": true,
+    "test": "blame names an Act"
+   },
+   {
+    "detail": "constitution/article/21.md 2026-04-15->2026-04-16; constitution/article/19.md 2026-01-13->2026-01-14; constitution/article/1.md 2026-05-11->2026-05-12; public-service-act-2016/section/10.md 2026-07-19->2026-07-20; 84A absent on 2026-03-25",
+    "ok": true,
+    "test": "text before and after amendments"
+   },
+   {
+    "detail": "constitution/article/19.md 4 commits; public-service-act-2016/section/4.md 2 commits; constitution/article/1.md 2 commits",
+    "ok": true,
+    "test": "log --follow in date order"
+   },
+   {
+    "detail": "13 commits: In-force on all, trailers parse, 0 merges, 0 CRs, dates monotone",
+    "ok": true,
+    "test": "In-force, trailers, merges, CRs"
+   },
+   {
+    "detail": "only the documentation commit is by Lexifina; 9 authors",
+    "ok": true,
+    "test": "authors"
+   },
+   {
+    "detail": "10 README commands ran and printed output",
+    "ok": true,
+    "test": "README commands run"
+   }
+  ],
+  "summary": "6/6 passed"
+ }
+}

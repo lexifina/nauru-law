@@ -1,0 +1,61 @@
+{
+  "corpus": "nr/national/acts",
+  "name": "Laws of the Republic of Nauru (the consolidated reprints on RONLAW)",
+  "label": "Nauru",
+  "language": "en",
+  "history_from": "1921-10-15",
+  "record_to": "2026-10-02",
+  "checked_on": "2026-10-29",
+  "record_note": "The Constitution, 244 Acts and 258 subsidiary instruments: every law printed in a consolidated reprint of the Laws of the Republic of Nauru on RONLAW, each from its earliest reprint there (most from 2021 or later) to its latest (2026-10-02). Laws with no reprint on RONLAW (only the text as made) are not included; checked 2026-10-29.",
+  "history": "in-force",
+  "in_force_trailer": "In-force",
+  "baseline_trailer": "Consolidated",
+  "has_future_branch": false,
+  "laws": {
+    "constitution": 1,
+    "acts": 244,
+    "subsidiary": 258,
+    "list": "data/laws.csv",
+    "paths": [
+      "constitution/",
+      "acts/<title>/",
+      "subsidiary/<title>/"
+    ]
+  },
+  "built": "2026-10-29",
+  "dates": {
+    "commit": "in-force (the operative date printed in the history note, else the commencement in the Table of Amendments, else the reprint's consolidation date)",
+    "baseline_trailer": "Consolidated",
+    "other_trailers": [
+      "Cited-as",
+      "Evidence",
+      "Candidate"
+    ],
+    "time": "12:00 Pacific/Nauru (UTC+12, no summer time)",
+    "before_1970": "git cannot date a commit before 1970: those commits are dated 1970-01-01, one second apart, in order, and keep their real day in In-force"
+  },
+  "author": {
+    "amendment": "the amending Act (or GN)",
+    "consolidated": "RONLAW (Department of Justice and Border Control)",
+    "several-acts": "RONLAW, with Candidate trailers",
+    "unexplained": "RONLAW, with Candidate trailers",
+    "evidence_trailer": "Evidence"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "groups": "any one line",
+    "conditions": "all of a line",
+    "when_absent": "no scope note found; not a statement that the change reaches every case",
+    "default_reach": {
+      "rule": "presumption against retroactivity",
+      "meaning": "a written law does not commence retrospectively unless it clearly says so, and a repeal or amendment does not affect the previous operation of the law, rights acquired or accrued, or proceedings already begun under it",
+      "authority": "Interpretation Act 2011 (Nauru), sections 22(3) and 28(1); section 21: a provision commences at the beginning of its day",
+      "decided_here": false
+    }
+  },
+  "tool": "tools/in_force_on.py",
+  "citation": {
+    "file": "(constitution/article|acts/[a-z0-9-]+/section)/0*([0-9]+[A-Z]*)\\.md",
+    "cites": "([Aa]rticle|[Ss]ection) ?{n}([^0-9A-Z]|$)"
+  }
+}
