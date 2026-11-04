@@ -1,12 +1,12 @@
 {
   "corpus": "nr/national/acts",
-  "name": "Laws of the Republic of Nauru (Constitution and Public Service Act 2016)",
+  "name": "Laws of the Republic of Nauru (Constitution, Public Service Act and 187 principal Acts)",
   "label": "Nauru",
   "language": "en",
-  "history_from": "2022-06-08",
-  "record_to": "2026-07-20",
-  "checked_on": "2026-10-28",
-  "record_note": "The Constitution of Nauru 1968 and the Public Service Act 2016 from the RONLAW reprints of the Laws of the Republic of Nauru: each act from its earliest reprint on RONLAW (consolidated to 2022-06-08 and 2022-06-10) to the latest (2026-07-20); checked 2026-10-28.",
+  "history_from": "2021-06-01",
+  "record_to": "2026-09-17",
+  "checked_on": "2026-11-04",
+  "record_note": "The Constitution and Public Service Act have dated reprint histories. The 187 additional principal Acts each have one current-text baseline dated by the latest operative date in the official Table of Amendments. Earlier wording is not represented for those Acts. Ten expressly repealed Acts and one Act with an unresolved conditional repeal are excluded; this is partial coverage.",
   "history": "in-force",
   "in_force_trailer": "In-force",
   "baseline_trailer": "Consolidated",
@@ -21,9 +21,1879 @@
       "path": "public-service-act-2016/",
       "files": 147,
       "versions": 3
+    },
+    "civil-procedure-act-1972": {
+      "path": "acts/civil-procedure-act-1972/",
+      "files": 77,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2021-06-01",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1972/Civil_Procedure_Act_1972.pdf",
+      "source_sha256": "af6f3b43008bfb6ce15822ddf463a0de46c209c923742f88f7b653a01d2145b5",
+      "embedded_images": 0
+    },
+    "coastal-fisheries-and-aquaculture-act-2020": {
+      "path": "acts/coastal-fisheries-and-aquaculture-act-2020/",
+      "files": 75,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2021-06-01",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2020/Coastal%20Fisheries%20and%20Aquaculture%20Act%202020_serv5.pdf",
+      "source_sha256": "69f1f4eeb7005885ca362a2f6561a488c6254d12541486696e768909a858b2de",
+      "embedded_images": 0
+    },
+    "commerce-trade-descriptions-act-1905": {
+      "path": "acts/commerce-trade-descriptions-act-1905/",
+      "files": 19,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2021-06-01",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1905/Commerce_%28Trade_Descriptions%29_Act_1905.pdf",
+      "source_sha256": "2a5a0a2b4f5c25ffd83806ca2b1cebda0ccd14bad41d4a613c224869c6d76d17",
+      "embedded_images": 0
+    },
+    "family-court-act-1973": {
+      "path": "acts/family-court-act-1973/",
+      "files": 35,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2021-06-01",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1973/Family_Court_Act_1973.pdf",
+      "source_sha256": "9b011c290e5e698bb0c5553ee87febf183f73bd4ce8d4fc61eb9a3adb5621b2d",
+      "embedded_images": 0
+    },
+    "inquests-act-1977": {
+      "path": "acts/inquests-act-1977/",
+      "files": 22,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2021-06-01",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1977/Inquests_Act_1977.pdf",
+      "source_sha256": "c1810cf734858f7189866c43cd8b8a37f4ea8f0e887e2bc2448066fe08476fcc",
+      "embedded_images": 0
+    },
+    "mercantile-act-1912": {
+      "path": "acts/mercantile-act-1912/",
+      "files": 32,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2021-06-01",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1912/Mercantile_Act_1912.pdf",
+      "source_sha256": "7e6e58f8ab77952c2f94bc05117e18ca28caa6bbee5c763eb074bf1064d5ded9",
+      "embedded_images": 0
+    },
+    "national-disaster-risk-management-act-2016": {
+      "path": "acts/national-disaster-risk-management-act-2016/",
+      "files": 91,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2021-06-01",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2016/National%20Disaster%20Risk%20Management%20Act%202016_serv5.pdf",
+      "source_sha256": "3c10ec7549f48f38fbdadd09797449ffacedfe77439cdf6391eeadacc0d2e7c7",
+      "embedded_images": 0
+    },
+    "passports-act-2011": {
+      "path": "acts/passports-act-2011/",
+      "files": 63,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2021-06-01",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2011/Passports%20Act%202011_serv4.pdf",
+      "source_sha256": "f3abdf54bd904feb985f49a5a00bf182a393a54c8055f4c6667fc24da4b1d572",
+      "embedded_images": 0
+    },
+    "payments-directorate-act-2008": {
+      "path": "acts/payments-directorate-act-2008/",
+      "files": 9,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2021-06-01",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2008/Payments_Directorate_Act_2008.pdf",
+      "source_sha256": "df63075c2452906b99b942e1fbc16254cf8aa6ef3c507a0fbe19f6d44a56c9b2",
+      "embedded_images": 0
+    },
+    "ronwan-consolidation-act-2014": {
+      "path": "acts/ronwan-consolidation-act-2014/",
+      "files": 53,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2021-06-01",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2014/Ronwan%20Consolidation%20Act%202014_serv5.pdf",
+      "source_sha256": "c41580e92c29f75e76a9985fee41a32c5611b352163ea0aaa5256e4061667319",
+      "embedded_images": 0
+    },
+    "secret-commissions-act-1905": {
+      "path": "acts/secret-commissions-act-1905/",
+      "files": 12,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2021-06-01",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1905/Secret_Commissions_Act_1905.pdf",
+      "source_sha256": "b9f0fc6e4f3bc2c76add0e9b5b46c60c5300d45657fe71a208f2ba79be3a3dab",
+      "embedded_images": 0
+    },
+    "supreme-court-act-2018": {
+      "path": "acts/supreme-court-act-2018/",
+      "files": 120,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2022-06-10",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2018/Supreme_Court_Act_2018.pdf",
+      "source_sha256": "8a057eec3e6a16896847010e096ad1d8a08076fcef134df4cf33f9597353e2cb",
+      "embedded_images": 0
+    },
+    "customs-tariff-act-2014": {
+      "path": "acts/customs-tariff-act-2014/",
+      "files": 27,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2024-06-14",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2014/Customs%20Tariff%20Act%202014_serv3.pdf",
+      "source_sha256": "288be22f05542c285dc7a733acbe4ed66f435b97a68e8568d0f602251093dcb7",
+      "embedded_images": 0
+    },
+    "nauru-court-of-appeal-act-2018": {
+      "path": "acts/nauru-court-of-appeal-act-2018/",
+      "files": 64,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2024-11-26",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2018/Nauru%20Court%20of%20Appeal%20Act%202018_serv4.pdf",
+      "source_sha256": "30891c279cbbcf4ed4c35aa3b864b675e618aa34671a5ca253af3bef94fd4193",
+      "embedded_images": 0
+    },
+    "nauru-lands-committee-act-1956": {
+      "path": "acts/nauru-lands-committee-act-1956/",
+      "files": 13,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2024-12-23",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1956/Nauru%20Lands%20Committee%20Act%201956_serv4.pdf",
+      "source_sha256": "477b6ca09e8519b718ff75bf0eaba1548d3b961cb27af50b58c6b7ba7e951003",
+      "embedded_images": 0
+    },
+    "ports-and-navigation-act-2019": {
+      "path": "acts/ports-and-navigation-act-2019/",
+      "files": 230,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2025-01-28",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2019/Ports%20And%20Navigation%20Act%202019_serv4.pdf",
+      "source_sha256": "72ff348e1243d4314c36f309565ae9434b1b2105837ad65eb0348cfe9a404d70",
+      "embedded_images": 0
+    },
+    "survey-act-2025": {
+      "path": "acts/survey-act-2025/",
+      "files": 58,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2025-03-11",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2025/Survey%20Act%202025_serv5.pdf",
+      "source_sha256": "18305fa4a99f2c2c8b15a980dacbb0efc283f6eeb600dd04597088b8cb464ed4",
+      "embedded_images": 0
+    },
+    "interpretation-act-2011": {
+      "path": "acts/interpretation-act-2011/",
+      "files": 116,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2025-09-19",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2025/Interpretation%20Act%202011_serv4.pdf",
+      "source_sha256": "e8e2aa1d91048766e375b280a61845410136b721af6a4fb630cf3d6e88e27db1",
+      "embedded_images": 0
+    },
+    "maritime-security-act-2019": {
+      "path": "acts/maritime-security-act-2019/",
+      "files": 40,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2025-09-19",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2019/Maritime%20Security%20Act%202019_serv4.pdf",
+      "source_sha256": "5b58cbfffddf5d4166faafb55a631704e80452b0fbb78c0a091931706a55a41d",
+      "embedded_images": 0
+    },
+    "accommodation-registration-act-2012": {
+      "path": "acts/accommodation-registration-act-2012/",
+      "files": 33,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2012/Accommodation%20Registration%20Act%202012_serv6.pdf",
+      "source_sha256": "c1981ed79c00debd68549725416c66115393670e543d4ee1e103ca3b2298d9ec",
+      "embedded_images": 0
+    },
+    "administration-of-justice-act-2018": {
+      "path": "acts/administration-of-justice-act-2018/",
+      "files": 48,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2018/Administration%20of%20Justice%20Act%202018_serv6.pdf",
+      "source_sha256": "b5f5e062cc6b8276c6ddaf1b5546075aa4de8eb8897beb16df9a2904c66c3ace",
+      "embedded_images": 0
+    },
+    "administrative-arrangements-act-2011": {
+      "path": "acts/administrative-arrangements-act-2011/",
+      "files": 9,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2011/Administrative%20Arrangements%20Act%202011_serv6.pdf",
+      "source_sha256": "c656161eb92efd53d95df6ff0e34b6e7e9926b16b66440ff79dd1fc4691c4713",
+      "embedded_images": 0
+    },
+    "adoption-of-children-act-1965": {
+      "path": "acts/adoption-of-children-act-1965/",
+      "files": 27,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1965/Adoption%20of%20Children%20Act%201965_serv6.pdf",
+      "source_sha256": "751a8067ba6f1ecac371a9a432e8ff4f2b1752bee4880cf690a8c0207864b7d8",
+      "embedded_images": 0
+    },
+    "aerodrome-acquisition-of-land-act-1952": {
+      "path": "acts/aerodrome-acquisition-of-land-act-1952/",
+      "files": 15,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1952/Aerodrome%20%28Acquisition%20of%20Land%29%20Act%201952_serv6.pdf",
+      "source_sha256": "bf30b499e336080c710b0b3044fcbba54d0b9cf97e8e58f93444c731ecbbf57a",
+      "embedded_images": 0
+    },
+    "agricultural-quarantine-act-1999": {
+      "path": "acts/agricultural-quarantine-act-1999/",
+      "files": 40,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1999/Agricultural%20Quarantine%20Act%201999_serv6.pdf",
+      "source_sha256": "dcb5d04a9469f3ca12cbc2e71692ea745c6e48a12870ed6199f4622b454c5bd2",
+      "embedded_images": 0
+    },
+    "animals-act-1982": {
+      "path": "acts/animals-act-1982/",
+      "files": 23,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1982/Animals%20Act%201982_serv6.pdf",
+      "source_sha256": "f24602a44be6172cd9e9b8eed31ba32c51302571474733472568bf9535ad23b2",
+      "embedded_images": 0
+    },
+    "anti-money-laundering-and-targeted-financial-sanctions-act-2023": {
+      "path": "acts/anti-money-laundering-and-targeted-financial-sanctions-act-2023/",
+      "files": 143,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2023/Anti-Money%20Laundering%20and%20Targeted%20Financial%20Sanctions%20Act%202023_serv6.pdf",
+      "source_sha256": "f91af380362ebe6e1f824b518eacaa5192227bd2b86657df19408a3c5a538f83",
+      "embedded_images": 0
+    },
+    "asylum-seekers-regional-processing-centre-act-2012": {
+      "path": "acts/asylum-seekers-regional-processing-centre-act-2012/",
+      "files": 40,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2012/Asylum%20Seekers%20%28Regional%20Processing%20Centre%29%20Act%202012_serv6.pdf",
+      "source_sha256": "6074bb682bf6a7e4f5361ca367d294c70c00685f504c28278d974ae559786773",
+      "embedded_images": 0
+    },
+    "attachment-of-earnings-and-phosphate-royalties-act-1973": {
+      "path": "acts/attachment-of-earnings-and-phosphate-royalties-act-1973/",
+      "files": 23,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1973/Attachment%20of%20Earnings%20Act%201973_serv6.pdf",
+      "source_sha256": "c32153e707a92ef1049be29126ca2732be3bbd4eb2491c82e0006bf77c4206b0",
+      "embedded_images": 0
+    },
+    "audit-act-1973": {
+      "path": "acts/audit-act-1973/",
+      "files": 12,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1973/Audit%20Act%201973_serv6.pdf",
+      "source_sha256": "215ff970f376e82ac53033dba905d31d1630ba8c931a14d10e9dfc3623ac92f6",
+      "embedded_images": 0
+    },
+    "automatic-exchange-of-financial-account-information-act-2016": {
+      "path": "acts/automatic-exchange-of-financial-account-information-act-2016/",
+      "files": 17,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2016/Automatic%20Exchange%20of%20Financial%20Account%20Information%20Act%202016_serv6.pdf",
+      "source_sha256": "be526ff2ac3deb36b3309dabd7d93d853ad27e63fe1e77a2fb50df7b769669d7",
+      "embedded_images": 0
+    },
+    "banking-act-1975": {
+      "path": "acts/banking-act-1975/",
+      "files": 25,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1975/Banking%20Act%201975_serv6.pdf",
+      "source_sha256": "6312b75b697c27917fb9120fecd77a3e7d2b95dad7dcd93088dae279aeb99e41",
+      "embedded_images": 0
+    },
+    "beneficial-ownership-act-2017": {
+      "path": "acts/beneficial-ownership-act-2017/",
+      "files": 45,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2017/Beneficial%20Ownership%20Act%202017_serv6.pdf",
+      "source_sha256": "2c0b7d0a69ff598c0d3cb824887882ef30d65c4d79fd2e773c4edb573a1c0b09",
+      "embedded_images": 0
+    },
+    "births-deaths-and-marriages-registration-act-2017": {
+      "path": "acts/births-deaths-and-marriages-registration-act-2017/",
+      "files": 108,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2017/Births%2C%20Deaths%20and%20Marriages%20Registration%20Act%202017_serv6.pdf",
+      "source_sha256": "23a8b8a10dc5771c915635fd6f94cba2d599818810974f13b78c81128162af94",
+      "embedded_images": 0
+    },
+    "building-control-act-2025": {
+      "path": "acts/building-control-act-2025/",
+      "files": 67,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2025/Building%20Control%20Act%202025_serv6.pdf",
+      "source_sha256": "f156b1c6197f49bc107c33b33086a8860b50c0dbbe616f895711792c21d3cd39",
+      "embedded_images": 0
+    },
+    "business-licences-act-2017": {
+      "path": "acts/business-licences-act-2017/",
+      "files": 46,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2017/Business%20Licences%20Act%202017_serv6.pdf",
+      "source_sha256": "8a7f24e5ff8deea348525ad2a34e9c22bbfdb2be0e73dfb352500acd4a1564aa",
+      "embedded_images": 0
+    },
+    "business-names-registration-act-2018": {
+      "path": "acts/business-names-registration-act-2018/",
+      "files": 38,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2018/Business%20Names%20Registration%20Act%202018_serv6.pdf",
+      "source_sha256": "7b025138a4fe9ca0cc248b45008be5a47d6782eb7c634f0ce702d682195c3cbf",
+      "embedded_images": 0
+    },
+    "cenpac-corporation-act-2018": {
+      "path": "acts/cenpac-corporation-act-2018/",
+      "files": 33,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2018/Cenpac%20Corporation%20Act%202018_serv6.pdf",
+      "source_sha256": "a56b41a5b05a7edba63ff3fde5631140aa70e6f9bd2a33203b138b772c050b01",
+      "embedded_images": 0
+    },
+    "census-act-1973": {
+      "path": "acts/census-act-1973/",
+      "files": 12,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1973/Census%20Act%201973_serv6.pdf",
+      "source_sha256": "1df2b0c975dd4a09f8869330b9f5cf80d5b715062f1eb81af5b7131eec3f1544",
+      "embedded_images": 0
+    },
+    "chemical-weapons-convention-act-2012": {
+      "path": "acts/chemical-weapons-convention-act-2012/",
+      "files": 35,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2012/Chemical%20Weapons%20Convention%20Act%202012_serv6.pdf",
+      "source_sha256": "d2f33b98e25e820dcb4c8a025d603b4b3ac1517fbcbefc7af5eb7db493cad1a6",
+      "embedded_images": 0
+    },
+    "child-protection-and-welfare-act-2016": {
+      "path": "acts/child-protection-and-welfare-act-2016/",
+      "files": 71,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2016/Child%20Protection%20and%20Welfare%20Act%202016_serv6.pdf",
+      "source_sha256": "769473d1e69be1abe1384f8e9e55c3de4b3ffe3228afdbf1393874af4bfb0d59",
+      "embedded_images": 0
+    },
+    "civil-aviation-carriers-liability-act-1995": {
+      "path": "acts/civil-aviation-carriers-liability-act-1995/",
+      "files": 17,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1995/Civil%20Aviation%20%28Carriers%E2%80%99%20Liability%29%20Act%201995_serv6.pdf",
+      "source_sha256": "a777de33960819ff8ad12acb3d4b1105b8c25d3edc4ddfa4ed1fcf8b672f154c",
+      "embedded_images": 0
+    },
+    "civil-aviation-act-2011": {
+      "path": "acts/civil-aviation-act-2011/",
+      "files": 194,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2011/Civil%20Aviation%20Act%202011_serv6.pdf",
+      "source_sha256": "df649d0d848a10ed2a2b3edff2800520a56c3267bb98232cf06ed151920412fb",
+      "embedded_images": 0
+    },
+    "civil-evidence-act-1972": {
+      "path": "acts/civil-evidence-act-1972/",
+      "files": 18,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1972/Civil%20Evidence%20Act%201972_serv6.pdf",
+      "source_sha256": "5067d8651aabae27b661601d3735cd4155da35c93e5dfc4831d36b4a82db0387",
+      "embedded_images": 0
+    },
+    "command-ridge-virtual-asset-authority-act-2025": {
+      "path": "acts/command-ridge-virtual-asset-authority-act-2025/",
+      "files": 29,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2025/Command%20Ridge%20Virtual%20Asset%20Authority%20Act%202025_serv6.pdf",
+      "source_sha256": "98f523d10dde8927e6b85de6ca48d23b2ce96e6d5e8e0aa8d895cff639de32b6",
+      "embedded_images": 0
+    },
+    "commercial-operations-and-services-fund-act-2018": {
+      "path": "acts/commercial-operations-and-services-fund-act-2018/",
+      "files": 9,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2018/Commercial%20Operations%20and%20Services%20Fund%20Act%202018_serv6.pdf",
+      "source_sha256": "e49b86769b41016abbee287e3ed418f311570a098860ee13fba3633fcaa3c689",
+      "embedded_images": 0
+    },
+    "communications-and-broadcasting-act-2018": {
+      "path": "acts/communications-and-broadcasting-act-2018/",
+      "files": 118,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2018/Communications%20and%20Broadcasting%20Act%202018_serv6.pdf",
+      "source_sha256": "e680a6a638ecf31a35190eae3a3ae0948ae9f81081baa8a8b0b750939fd7eec3",
+      "embedded_images": 0
+    },
+    "conflict-of-laws-act-1974": {
+      "path": "acts/conflict-of-laws-act-1974/",
+      "files": 7,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1974/Conflict%20of%20Laws%20Act%201974_serv6.pdf",
+      "source_sha256": "4d957148b7f6bc312abffb495d6c7348f51e8989ac7d1777de2e57ddfd2153af",
+      "embedded_images": 0
+    },
+    "constitutional-review-committee-act-2004": {
+      "path": "acts/constitutional-review-committee-act-2004/",
+      "files": 18,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2004/Constitutional%20Review%20Committee%20Act%202004_serv6.pdf",
+      "source_sha256": "7f9bb36c66c3ce0183339517dd67b6050bee9750febce23edbcb41b4b4067d61",
+      "embedded_images": 0
+    },
+    "consular-conventions-administration-of-estates-act-1977": {
+      "path": "acts/consular-conventions-administration-of-estates-act-1977/",
+      "files": 6,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1977/Consular%20Conventions%20%28Administration%20of%20Estates%29%20Act%201977_serv6.pdf",
+      "source_sha256": "28f9c32b03a2d553e06b844a6512765dc87e0e255aa742be68ccce01d1ab184f",
+      "embedded_images": 0
+    },
+    "consular-privileges-and-immunities-act-1976": {
+      "path": "acts/consular-privileges-and-immunities-act-1976/",
+      "files": 16,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1976/Consular%20Privileges%20and%20Immunities%20Act%201976_serv6.pdf",
+      "source_sha256": "f1cefaa9c1842f2215a57047d11a775dc6eceb796dc620367eae995b438bc870",
+      "embedded_images": 0
+    },
+    "consumer-protection-act-2024": {
+      "path": "acts/consumer-protection-act-2024/",
+      "files": 77,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2024/Consumer%20Protection%20Act%202024_serv6.pdf",
+      "source_sha256": "4b0f4d3d14703cb2176fe06f4bc7b1c0f80b07fd7a564b0c5e90207db22db649",
+      "embedded_images": 0
+    },
+    "copyright-act-2019": {
+      "path": "acts/copyright-act-2019/",
+      "files": 63,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2019/Copyright%20Act%202019_serv6.pdf",
+      "source_sha256": "ecfd1f9baaf67e51765a72cedabb6df8de1c672c4575864b749a4c21d7fcea03",
+      "embedded_images": 0
+    },
+    "corporations-act-1972": {
+      "path": "acts/corporations-act-1972/",
+      "files": 263,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1972/Corporations%20Act%201972_serv6.pdf",
+      "source_sha256": "ca8bb35aaf25a49dd54587eff0136b341ee8b3b7b5e3fedda86629a0dbccd37c",
+      "embedded_images": 0
+    },
+    "correctional-service-act-2009": {
+      "path": "acts/correctional-service-act-2009/",
+      "files": 62,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2009/Correctional%20Service%20Act%202009_serv6.pdf",
+      "source_sha256": "15363a7795515e592fc18143303c28e922a4bb7c9d68893780031018e4af2bee",
+      "embedded_images": 0
+    },
+    "counter-terrorism-and-transnational-organised-crime-act-2004": {
+      "path": "acts/counter-terrorism-and-transnational-organised-crime-act-2004/",
+      "files": 85,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2004/Counter%20Terrorism%20and%20Transnational%20Organised%20Crime%20Act%202004_serv6.pdf",
+      "source_sha256": "646ce775f43f4009ad6366e3957da527f7d728363eff56e4b1b34b379f5706db",
+      "embedded_images": 0
+    },
+    "crimes-act-2016": {
+      "path": "acts/crimes-act-2016/",
+      "files": 304,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2016/Crimes%20Act%202016_serv6.pdf",
+      "source_sha256": "d7cc294455c11bb700dfa515ff5bbf066b098d29916ef0d0218fe4a7694e2b32",
+      "embedded_images": 0
+    },
+    "criminal-justice-act-1999": {
+      "path": "acts/criminal-justice-act-1999/",
+      "files": 44,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1999/Criminal%20Justice%20Act%201999_serv6.pdf",
+      "source_sha256": "6bd6eb2d3116e2caf46ea6985a4855d50cbb8e578f05403da689a29be3334dff",
+      "embedded_images": 0
+    },
+    "criminal-procedure-act-1972": {
+      "path": "acts/criminal-procedure-act-1972/",
+      "files": 275,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1972/Criminal%20Procedure%20Act%201972_serv6.pdf",
+      "source_sha256": "aeb8511e784a2ca62dc75a31d2f906e0208571b4c16a89d903cc765944fece2e",
+      "embedded_images": 0
+    },
+    "currency-act-1976": {
+      "path": "acts/currency-act-1976/",
+      "files": 11,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1976/Currency%20Act%201976_serv6.pdf",
+      "source_sha256": "4c0b8b09d89a031ff98b70a3c8dcf87663e2a1d127f1157a11a2f6e9709093b7",
+      "embedded_images": 0
+    },
+    "custom-and-adopted-laws-act-1971": {
+      "path": "acts/custom-and-adopted-laws-act-1971/",
+      "files": 17,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1971/Custom%20and%20Adopted%20Laws%20Act%201971%20_serv6.pdf",
+      "source_sha256": "da90a9b140eff36f0cbf58aeea2493df11f3e3cab4da43e0da0b716c9b83ead1",
+      "embedded_images": 0
+    },
+    "cybercrime-act-2015": {
+      "path": "acts/cybercrime-act-2015/",
+      "files": 40,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2015/Cybercrime%20Act%202015_serv6.pdf",
+      "source_sha256": "75ee4c013b01a1dd9d4a61008900b04221507bcfb1452cbc91e5048508f2b2ff",
+      "embedded_images": 0
+    },
+    "deputy-ministers-act-2023": {
+      "path": "acts/deputy-ministers-act-2023/",
+      "files": 23,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2023/Deputy%20Ministers%20Act%202023_serv6.pdf",
+      "source_sha256": "86c1ba5215a56d2483a6004d2d925c447f9ba40af610f6954b5db93960c9592d",
+      "embedded_images": 0
+    },
+    "derelict-sites-management-act-2017": {
+      "path": "acts/derelict-sites-management-act-2017/",
+      "files": 18,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2017/Derelict%20Sites%20Management%20Act%202017_serv6.pdf",
+      "source_sha256": "8aa5ecd73ae69459cd9b7da5f644ab8478ba2056029c7de88c097c6b8d338471",
+      "embedded_images": 0
+    },
+    "development-fund-act-2011": {
+      "path": "acts/development-fund-act-2011/",
+      "files": 10,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2011/Development%20Fund%20Act%202011_serv6.pdf",
+      "source_sha256": "2fbd1e5199d583957482f1104042121547514a20e6223f07aac258c20a7ed1af",
+      "embedded_images": 0
+    },
+    "diplomatic-privileges-and-immunities-act-1976": {
+      "path": "acts/diplomatic-privileges-and-immunities-act-1976/",
+      "files": 15,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1976/Diplomatic%20Privileges%20and%20Immunities%20Act%201976_serv6.pdf",
+      "source_sha256": "bc0238f6c16ec19555f4ac65a63666bc88013f2dafffde07dd001b9d3e595a96",
+      "embedded_images": 0
+    },
+    "district-court-act-2018": {
+      "path": "acts/district-court-act-2018/",
+      "files": 71,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2018/District%20Court%20Act%202018_serv6.pdf",
+      "source_sha256": "5312db604517dcd8bb10c3de6d6e5f63ac9590c44b5ca6c310e69b30f7b0cc06",
+      "embedded_images": 0
+    },
+    "dog-management-and-control-act-2017": {
+      "path": "acts/dog-management-and-control-act-2017/",
+      "files": 50,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2017/Dog%20Management%20and%20Control%20Act%202017_serv6.pdf",
+      "source_sha256": "02ab6c93b36f9a413b980988093790326d1b5a2d6dc7784132812fe8ed98c3cb",
+      "embedded_images": 0
+    },
+    "drones-act-2018": {
+      "path": "acts/drones-act-2018/",
+      "files": 26,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2018/Drones%20Act%202018_serv6.pdf",
+      "source_sha256": "1a0007d6a0b1bd710036b6ac26a9dae7b13a8e48a2f93753f36548c1a9e589f9",
+      "embedded_images": 0
+    },
+    "education-act-2011": {
+      "path": "acts/education-act-2011/",
+      "files": 128,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2011/Education%20Act%202011_serv6.pdf",
+      "source_sha256": "0ba82099f230e2943f82714d2ecdd2202c265dc89824374eb7341c2b94d38180",
+      "embedded_images": 0
+    },
+    "employment-and-services-tax-act-2014": {
+      "path": "acts/employment-and-services-tax-act-2014/",
+      "files": 32,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2014/Employment%20and%20Services%20Tax%20Act%202014_serv6.pdf",
+      "source_sha256": "ff7bb288b375ac54577d65e101a3742fdbe69d94f8b69d3177e87e42ddb0eef1",
+      "embedded_images": 0
+    },
+    "environmental-management-and-climate-change-act-2020": {
+      "path": "acts/environmental-management-and-climate-change-act-2020/",
+      "files": 65,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2020/Environmental%20Management%20and%20Climate%20Change%20Act%202020_serv6.pdf",
+      "source_sha256": "f4f4099a9a73f9b9906180b601bd14d24dc1f9f071424dac8460d4952fbc3e12",
+      "embedded_images": 0
+    },
+    "evidence-confidential-information-act-1976": {
+      "path": "acts/evidence-confidential-information-act-1976/",
+      "files": 6,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1976/Evidence%20%28Confidential%20Information%29%20Act%201976_serv6.pdf",
+      "source_sha256": "3a88e11c6e3b4ef25cc9e6df6a5703ff154631f590802ddd22a524044351511b",
+      "embedded_images": 0
+    },
+    "explosives-act-1924": {
+      "path": "acts/explosives-act-1924/",
+      "files": 7,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1924/Explosives%20Act%201924_serv6.pdf",
+      "source_sha256": "c45e87798f4b40c038dae09aeb02bb85cef93203aabce9ae1d570b4fea936606",
+      "embedded_images": 0
+    },
+    "extradition-act-1973": {
+      "path": "acts/extradition-act-1973/",
+      "files": 23,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1973/Extradition%20Act%201973_serv6.pdf",
+      "source_sha256": "a64899ba6aacbc8f91e7e52f7deeb415c663acb60cab4dce7853eb30e87abef2",
+      "embedded_images": 0
+    },
+    "facilitation-of-australian-assistance-act-2004": {
+      "path": "acts/facilitation-of-australian-assistance-act-2004/",
+      "files": 10,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2004/Facilitation%20of%20Australian%20Assistance%20Act%202004_serv6.pdf",
+      "source_sha256": "1b67d3c0935e01737c54afa14eef7244909555fad10add0d677f0b024a5bb3ed",
+      "embedded_images": 0
+    },
+    "fisheries-management-act-2024": {
+      "path": "acts/fisheries-management-act-2024/",
+      "files": 139,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2024/Fisheries%20Management%20Act%202024_serv6.pdf",
+      "source_sha256": "9b18f2f36e995b2ddd99589395847c0ed833ff08db93eb6c418ec682c80d95c5",
+      "embedded_images": 0
+    },
+    "food-safety-act-2005": {
+      "path": "acts/food-safety-act-2005/",
+      "files": 40,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2005/Food%20Safety%20Act%202005_serv6.pdf",
+      "source_sha256": "1b3b048c3a5d793c5ce1b4b2d28afa9a27ec9bceb61fa89dc424bd0356577c06",
+      "embedded_images": 0
+    },
+    "foreign-investment-act-2025": {
+      "path": "acts/foreign-investment-act-2025/",
+      "files": 44,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2025/Foreign%20Investment%20Act%202025_serv6.pdf",
+      "source_sha256": "02d6e868e8476bcd52f71ce8065f15656397a0c6dc65440ca41058b723145674",
+      "embedded_images": 0
+    },
+    "foreign-judgments-reciprocal-enforcement-act-1973": {
+      "path": "acts/foreign-judgments-reciprocal-enforcement-act-1973/",
+      "files": 12,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1973/Foreign%20Judgments%20%28Reciprocal%20Enforcement%29%20Act%201973_serv6.pdf",
+      "source_sha256": "2d9086524d90d9076ad3c925d416ca431f7d51b867a473c4bf13a814da46e0b1",
+      "embedded_images": 0
+    },
+    "foreign-trusts-estates-and-wills-act-1972": {
+      "path": "acts/foreign-trusts-estates-and-wills-act-1972/",
+      "files": 11,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1972/Foreign%20Trusts%2C%20Estates%20and%20Wills%20Act%201972_serv6.pdf",
+      "source_sha256": "9451a973eb078793324adcaae346733f8e926164ffdafe47dd3f630adf536c3a",
+      "embedded_images": 0
+    },
+    "funeral-burial-and-cremation-act-2017": {
+      "path": "acts/funeral-burial-and-cremation-act-2017/",
+      "files": 65,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2017/Funeral%20Burial%20and%20Cremation%20Act%202017_serv6.pdf",
+      "source_sha256": "e6487f21edfa38da7960739ddeb7e85b04cefdd61af81e7c38a766d7f1f8fbb2",
+      "embedded_images": 0
+    },
+    "gaming-act-2011": {
+      "path": "acts/gaming-act-2011/",
+      "files": 33,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2011/Gaming%20Act%202011_serv6.pdf",
+      "source_sha256": "db02adee127450218b24ca085b213e308c0a7a368ede143b27fd18830b102cc3",
+      "embedded_images": 0
+    },
+    "geneva-conventions-act-2012": {
+      "path": "acts/geneva-conventions-act-2012/",
+      "files": 19,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2012/Geneva%20Conventions%20Act%202012_serv6.pdf",
+      "source_sha256": "9be8061bbea4c070dd4e56bef58ee92c21e2700ffc8800a464fea4d9a9363543",
+      "embedded_images": 0
+    },
+    "guardianship-of-children-act-1975": {
+      "path": "acts/guardianship-of-children-act-1975/",
+      "files": 37,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1975/Guardianship%20of%20Children%20Act%201975_serv6.pdf",
+      "source_sha256": "9bd0891d1b2785a752d7f7e91ace1ead2f57638dd4e56d796de674831aeee61d",
+      "embedded_images": 0
+    },
+    "health-practitioners-act-1999": {
+      "path": "acts/health-practitioners-act-1999/",
+      "files": 19,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1999/Health%20Practitioners%20Act%201999_serv6.pdf",
+      "source_sha256": "ad2633cf9af596512b925ac1c4e4a3cde1572398eb457c6feaa60ae5a69dc0f6",
+      "embedded_images": 0
+    },
+    "health-and-medical-services-act-2025": {
+      "path": "acts/health-and-medical-services-act-2025/",
+      "files": 137,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2025/Health%20and%20Medical%20Services%20Act%202025_serv6.pdf",
+      "source_sha256": "1ee1a5c164d1b12ec1b17a25b4b9e50a1f7cc250ec833a0e4af3d731259c8bf9",
+      "embedded_images": 0
+    },
+    "human-rights-commission-act-2025": {
+      "path": "acts/human-rights-commission-act-2025/",
+      "files": 65,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2025/Human%20Rights%20Commission%20Act%202025_serv6.pdf",
+      "source_sha256": "beb7ec4b28b0c2b2bc12f40c6a8223bd30868fe08dc8274d89ee4d36c95d7620",
+      "embedded_images": 0
+    },
+    "immigration-act-2014": {
+      "path": "acts/immigration-act-2014/",
+      "files": 43,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2014/Immigration%20Act%202014_serv6.pdf",
+      "source_sha256": "5c980d1596c17c3f4f85360511593104290bdbf0fc8d822057162dc9c21df353",
+      "embedded_images": 0
+    },
+    "inclusion-of-persons-with-disabilities-act-2023": {
+      "path": "acts/inclusion-of-persons-with-disabilities-act-2023/",
+      "files": 42,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2023/Inclusion%20of%20Persons%20with%20Disabilities%20Act%202023_serv6.pdf",
+      "source_sha256": "2e23108a728240b8518f34afcfade0f0a7fe90b08fc95869f8c41ae8c6c5de2e",
+      "embedded_images": 0
+    },
+    "insolvency-act-1912": {
+      "path": "acts/insolvency-act-1912/",
+      "files": 192,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1912/Insolvency%20Act%201912_serv6.pdf",
+      "source_sha256": "4e42bf326b03a3d488725d167bfd0ab19f8dd32ff5d818822cf3d371a2ad7a2f",
+      "embedded_images": 0
+    },
+    "international-monetary-fund-and-world-bank-group-institutions-act-2016": {
+      "path": "acts/international-monetary-fund-and-world-bank-group-institutions-act-2016/",
+      "files": 15,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2016/International%20Monetary%20Fund%20and%20World%20Bank%20Group%20Institutions%20Act%202016_serv6.pdf",
+      "source_sha256": "9d380158d37dcccc3ac084405d8378f1e9c03f8645b443306ad9000675498c5e",
+      "embedded_images": 0
+    },
+    "land-declaration-of-ownership-act-1962": {
+      "path": "acts/land-declaration-of-ownership-act-1962/",
+      "files": 6,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1962/Land%20%28Declaration%20of%20Ownership%29%20Act%201962_serv6.pdf",
+      "source_sha256": "432c850d6b4b66aca0eec2502c287a6e08f5ce10d70da41fee57351f7c7bb54e",
+      "embedded_images": 0
+    },
+    "lands-validating-act-1951": {
+      "path": "acts/lands-validating-act-1951/",
+      "files": 3,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1951/Lands%20%28Validating%29%20Act%201951_serv6.pdf",
+      "source_sha256": "e945a1f2d60435c8ae816bf7bf557ac77d40549e3d4a6fb3c4ec332b64648a7b",
+      "embedded_images": 0
+    },
+    "lands-act-1976": {
+      "path": "acts/lands-act-1976/",
+      "files": 26,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1976/Lands%20Act%201976_serv6.pdf",
+      "source_sha256": "a5e522880fb85b48be112e7800a06c95394348fcc289204b8a9916cdeea2012d",
+      "embedded_images": 0
+    },
+    "law-revision-and-consolidation-act-2019": {
+      "path": "acts/law-revision-and-consolidation-act-2019/",
+      "files": 25,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2019/Law%20Revision%20and%20Consolidation%20Act%202019_serv6.pdf",
+      "source_sha256": "8d53740c3ca3cb142acb5bb62d39939a59e1a8ff697cecd3ffade5d99ca07bb3",
+      "embedded_images": 0
+    },
+    "leadership-code-act-2016": {
+      "path": "acts/leadership-code-act-2016/",
+      "files": 83,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2016/Leadership%20Code%20Act%202016_serv6.pdf",
+      "source_sha256": "37189b6e2c53e08cb6fd54fdaf77feb44a69581808d7d26238abb1387e700fbf",
+      "embedded_images": 0
+    },
+    "legal-practitioners-act-2019": {
+      "path": "acts/legal-practitioners-act-2019/",
+      "files": 86,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2019/Legal%20Practitioners%20Act%202019_serv6.pdf",
+      "source_sha256": "4b02494c7fe5ece3114ab3b5f76919864cbb13154a87307aeeac2ccbb72e64b7",
+      "embedded_images": 0
+    },
+    "limitation-act-2017": {
+      "path": "acts/limitation-act-2017/",
+      "files": 61,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2017/Limitation%20Act%202017_serv6.pdf",
+      "source_sha256": "dd69ab21888e2601236d619d0a7494a92d6f0920142fb60e3815f432a87a8fe6",
+      "embedded_images": 0
+    },
+    "liquor-control-act-2017": {
+      "path": "acts/liquor-control-act-2017/",
+      "files": 106,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2017/Liquor%20Control%20Act%202017_serv6.pdf",
+      "source_sha256": "7243f23e4dbb06b43f4a2d1d982dcd2cabc68b3f595e9932279e11b80cda0dda",
+      "embedded_images": 0
+    },
+    "litter-prohibition-act-1983": {
+      "path": "acts/litter-prohibition-act-1983/",
+      "files": 12,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1983/Litter%20Prohibition%20Act%201983_serv6.pdf",
+      "source_sha256": "188e57c3b1338b711a6f8aaa8ab626e37864bd22add3cbb3ffc61130023553a1",
+      "embedded_images": 0
+    },
+    "maintenance-act-1959": {
+      "path": "acts/maintenance-act-1959/",
+      "files": 30,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1959/Maintenance%20Act%201959_serv6.pdf",
+      "source_sha256": "193dda453bcd6b6ff942a3f2bc08b990a72236a9ac21c4570f18fd12800abb11",
+      "embedded_images": 0
+    },
+    "maintenance-orders-reciprocal-enforcement-act-1973": {
+      "path": "acts/maintenance-orders-reciprocal-enforcement-act-1973/",
+      "files": 29,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1973/Maintenance%20Orders%20%28Reciprocal%20Enforcement%29%20Act%201973_serv6.pdf",
+      "source_sha256": "0193514f98904649f98418ca7a224caa98767317d063c19db6c36f3413bd0fd2",
+      "embedded_images": 0
+    },
+    "marine-insurance-act-1909": {
+      "path": "acts/marine-insurance-act-1909/",
+      "files": 98,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1909/Marine%20Insurance%20Act%201909_serv6.pdf",
+      "source_sha256": "1838d83fcc831eea7de1cdadccbb347a28d16fcc3a5d84b5255dca464b323e94",
+      "embedded_images": 0
+    },
+    "matrimonial-causes-act-1973": {
+      "path": "acts/matrimonial-causes-act-1973/",
+      "files": 51,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1973/Matrimonial%20Causes%20Act%201973_serv6.pdf",
+      "source_sha256": "f3c76604db175168e4e510dcfc8cfdddb71cf8fbad5e9a39a14cd4ea83529480",
+      "embedded_images": 0
+    },
+    "members-of-parliament-register-of-interests-act-2004": {
+      "path": "acts/members-of-parliament-register-of-interests-act-2004/",
+      "files": 14,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2004/Members%20of%20Parliament%20%28Register%20of%20Interests%29%20Act%202004_serv6.pdf",
+      "source_sha256": "a3bd58e322006b857be73b1bcf9210860fcad978e4610c75783fb1645b1f5a99",
+      "embedded_images": 0
+    },
+    "metric-conversion-act-1973": {
+      "path": "acts/metric-conversion-act-1973/",
+      "files": 8,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1973/Metric%20Conversion%20Act%201973_serv6.pdf",
+      "source_sha256": "6a674ea16e1457de750fc040709361f3dd14c695cd7ad6148d6b2d9c2c73d936",
+      "embedded_images": 0
+    },
+    "nauru-air-corporation-act-1995": {
+      "path": "acts/nauru-air-corporation-act-1995/",
+      "files": 55,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1995/Naoero%20Air%20Corporation%20Act%201995_serv6.pdf",
+      "source_sha256": "c9a3dcbf157ed57db11fb0ca6437efd275cbf21c996a915d159ef67efd29ee35",
+      "embedded_images": 0
+    },
+    "nauru-citizenship-act-2017": {
+      "path": "acts/nauru-citizenship-act-2017/",
+      "files": 35,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2017/Naoero%20Citizenship%20Act%202017_serv6.pdf",
+      "source_sha256": "5815ca428b4754182f4860fd4932112991626828dc753c6ed24321d780631cc4",
+      "embedded_images": 0
+    },
+    "nauru-economic-and-climate-resilience-citizenship-act-2024": {
+      "path": "acts/nauru-economic-and-climate-resilience-citizenship-act-2024/",
+      "files": 32,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2024/Naoero%20Economic%20and%20Climate%20Resilience%20Citizenship%20Act%202024_serv6.pdf",
+      "source_sha256": "08cbd6c4dda5fdeed5444cea7ab11eedf65daf5659437fc9755599a6bc430732",
+      "embedded_images": 0
+    },
+    "nauru-education-assistance-trust-act-2016": {
+      "path": "acts/nauru-education-assistance-trust-act-2016/",
+      "files": 42,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2016/Naoero%20Education%20Assistance%20Trust%20Act%202016_serv6.pdf",
+      "source_sha256": "5e35549590ec94cca4b6742c352bd55c7d2b16478ccb8fef96e680092d2ee21b",
+      "embedded_images": 0
+    },
+    "nauru-fisheries-and-marine-resources-authority-act-1997": {
+      "path": "acts/nauru-fisheries-and-marine-resources-authority-act-1997/",
+      "files": 40,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1997/Naoero%20Fisheries%20and%20Marine%20Resources%20Authority%20Act%201997_serv6.pdf",
+      "source_sha256": "ae736a8b7aee6b15ac5fb6a41eb60b8f0df85a0fe84c4097c9633a9a3448decb",
+      "embedded_images": 0
+    },
+    "nauru-language-authority-act-2025": {
+      "path": "acts/nauru-language-authority-act-2025/",
+      "files": 32,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2025/Naoero%20Language%20Authority%20Act%202025_serv6.pdf",
+      "source_sha256": "f1eeb1042fc7adc3953f4c5043265f8e92e6e9d797f52e0f3405e421895624d7",
+      "embedded_images": 0
+    },
+    "nauru-meteorology-services-act-2024": {
+      "path": "acts/nauru-meteorology-services-act-2024/",
+      "files": 22,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2024/Naoero%20Meteorology%20Services%20Act%202024_serv6.pdf",
+      "source_sha256": "c41004558f9748bf1a5477de8e0040fdb9bd1760c065e9486e2c657d002e99e2",
+      "embedded_images": 0
+    },
+    "nauru-rehabilitation-corporation-act-1997": {
+      "path": "acts/nauru-rehabilitation-corporation-act-1997/",
+      "files": 25,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1997/Naoero%20Rehabilitation%20Corporation%20Act%201997_serv6.pdf",
+      "source_sha256": "ac997b3eb22eebf0a9dc0c5fd86d8faec450774e089456a08cfde4fafb198138",
+      "embedded_images": 0
+    },
+    "nauru-roads-act-2017": {
+      "path": "acts/nauru-roads-act-2017/",
+      "files": 34,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2017/Naoero%20Roads%20Act%202017_serv6.pdf",
+      "source_sha256": "154ac6954116a314396494e026370bad867b29014d0794923858f9965d13de0b",
+      "embedded_images": 0
+    },
+    "nauru-seabed-minerals-authority-act-2024": {
+      "path": "acts/nauru-seabed-minerals-authority-act-2024/",
+      "files": 71,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2024/Naoero%20Seabed%20Minerals%20Authority%20Act%202024_serv6.pdf",
+      "source_sha256": "587d17721520e7aa7180871a9c7492218b5bbd5d0ca1c410c8b13ed4b048cf8e",
+      "embedded_images": 0
+    },
+    "nauru-small-business-enterprises-act-2025": {
+      "path": "acts/nauru-small-business-enterprises-act-2025/",
+      "files": 16,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2025/Naoero%20Small%20Business%20Enterprises%20Act%202025_serv6.pdf",
+      "source_sha256": "5de25e8af70995bffcaba34ac88d83157b32866ff0bfb82401e804c952a210b4",
+      "embedded_images": 0
+    },
+    "nauru-standard-time-act-1978": {
+      "path": "acts/nauru-standard-time-act-1978/",
+      "files": 6,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1978/Naoero%20Standard%20Time%20Act%201978_serv6.pdf",
+      "source_sha256": "faebf34aea97a6f03bf656be2e78db3b9fb9ffd3a4d42d550eb35c8a73cf7dfb",
+      "embedded_images": 0
+    },
+    "nauru-superannuation-act-2018": {
+      "path": "acts/nauru-superannuation-act-2018/",
+      "files": 73,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2018/Naoero%20Superannuation%20Act%202018_serv6.pdf",
+      "source_sha256": "b3ef91dc0555152d8dcfa64d4b1d80bef7c13184c431fb9a7d1abcd19b712d0a",
+      "embedded_images": 0
+    },
+    "nauru-tourism-corporation-act-2019": {
+      "path": "acts/nauru-tourism-corporation-act-2019/",
+      "files": 28,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2019/Naoero%20Tourism%20Corporation%20Act%202019_serv6.pdf",
+      "source_sha256": "c23c5d53af0c006b5fd1f1c96bb17dfb14ac71932da19f46eb59d551fadd0ce1",
+      "embedded_images": 0
+    },
+    "nauru-trust-fund-act-2012": {
+      "path": "acts/nauru-trust-fund-act-2012/",
+      "files": 12,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2012/Naoero%20Trust%20Fund%20Act%202012_serv6.pdf",
+      "source_sha256": "d2bc8160a95b98a9769b01c2e4fdab7a3b82b24a05da6099810ed705370c9e9d",
+      "embedded_images": 0
+    },
+    "nauru-trust-fund-no-2-act-2025": {
+      "path": "acts/nauru-trust-fund-no-2-act-2025/",
+      "files": 12,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2025/Naoero%20Trust%20Fund%20No%202%20Act%202025_serv6.pdf",
+      "source_sha256": "7906fae1310e3ca94f0b4b21420a6b63e95d1b80e00469faa049fc860970799d",
+      "embedded_images": 0
+    },
+    "nauru-trustee-corporation-act-1972": {
+      "path": "acts/nauru-trustee-corporation-act-1972/",
+      "files": 42,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1972/Naoero%20Trustee%20Corporation%20Act%201972_serv6.pdf",
+      "source_sha256": "bc5dafcfe512921cbe3c52edbcdb80854c20ef9fc5a2848900dcf3598f877272",
+      "embedded_images": 0
+    },
+    "nauru-utilities-corporation-act-2011": {
+      "path": "acts/nauru-utilities-corporation-act-2011/",
+      "files": 44,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2011/Naoero%20Utilities%20Corporation%20Act%202011_serv6.pdf",
+      "source_sha256": "6d592058bfe279fd8be15047b55c9b4733404db55970a0e6e9b5f6d9a6047097",
+      "embedded_images": 0
+    },
+    "national-heritage-act-2017": {
+      "path": "acts/national-heritage-act-2017/",
+      "files": 28,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2017/National%20Heritage%20Act%202017_serv6.pdf",
+      "source_sha256": "9a992fe6962b7288cc2cdcc73dd298af2ca05a703986370c143552e7228c77b4",
+      "embedded_images": 0
+    },
+    "national-hosting-of-events-act-2026": {
+      "path": "acts/national-hosting-of-events-act-2026/",
+      "files": 22,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2026/National%20Hosting%20of%20Events%20Act%202026_serv6.pdf",
+      "source_sha256": "11747d04390740332777f1660f30c4d35667b552401b6b96c46e253cf97b75f2",
+      "embedded_images": 0
+    },
+    "notification-of-infectious-and-contagious-diseases-act-1923": {
+      "path": "acts/notification-of-infectious-and-contagious-diseases-act-1923/",
+      "files": 7,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1923/Notification%20of%20Infectious%20and%20Contagious%20Diseases%20Act%201923_serv6.pdf",
+      "source_sha256": "ea7716c72a71a08d9c2c2dbfe6ab4e90feda2d946349336c23697af5fba48b08",
+      "embedded_images": 0
+    },
+    "oaths-affirmations-and-statutory-declarations-act-1976": {
+      "path": "acts/oaths-affirmations-and-statutory-declarations-act-1976/",
+      "files": 21,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1976/Oaths%2C%20Affirmations%20and%20Statutory%20Declarations%20Act%201976_serv6.pdf",
+      "source_sha256": "a27eedc04cd4412e35344e7124f1c39738fd2cb4aed0cdada5b2d1778c53d02a",
+      "embedded_images": 0
+    },
+    "official-information-act-1976": {
+      "path": "acts/official-information-act-1976/",
+      "files": 16,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1976/Official%20Information%20Act%201976_serv6%20%281%29.pdf",
+      "source_sha256": "025f19d87593829474c029866c26d17ac4fa94033ec8bd2e2266c55eca75902d",
+      "embedded_images": 0
+    },
+    "ozone-layer-protection-act-2017": {
+      "path": "acts/ozone-layer-protection-act-2017/",
+      "files": 42,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2017/Ozone%20Layer%20Protection%20Act%202017_serv6.pdf",
+      "source_sha256": "812a659b6983a2540f324507303e12670b04faa1e32620ea40d6523afb1d7ed9",
+      "embedded_images": 0
+    },
+    "parliamentary-pension-act-2008": {
+      "path": "acts/parliamentary-pension-act-2008/",
+      "files": 14,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2008/Parliamentary%20Pension%20Act%202008_serv6.pdf",
+      "source_sha256": "42660e7a58c82949ffc3a39964bbed8bd37121a2deefd10f0e8df0631423daa6",
+      "embedded_images": 0
+    },
+    "parliamentary-powers-privileges-and-immunities-act-1976": {
+      "path": "acts/parliamentary-powers-privileges-and-immunities-act-1976/",
+      "files": 31,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1976/Parliamentary%20Powers%2C%20Privileges%20and%20Immunities%20Act%201976_serv6.pdf",
+      "source_sha256": "9009a3ea0db40f50bac124f530dc5f3879ed886ad7bc87dec206b4602003297d",
+      "embedded_images": 0
+    },
+    "parliamentary-salaries-and-allowances-act-2008": {
+      "path": "acts/parliamentary-salaries-and-allowances-act-2008/",
+      "files": 14,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2008/Parliamentary%20Salaries%20and%20Allowances%20Act%202008_serv6.pdf",
+      "source_sha256": "f5baf7a852e0b3c1d3a607972ae7a2fb8b9cae75debf220c1a9742b6ad05266f",
+      "embedded_images": 0
+    },
+    "parliamentary-services-act-2020": {
+      "path": "acts/parliamentary-services-act-2020/",
+      "files": 58,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2021/Parliamentary%20Services%20Act%202020_serv6.pdf",
+      "source_sha256": "11a298b3e54c2e401caf93f1d1bda6339a58108adeaa31a9c33eb461cb5c2d0c",
+      "embedded_images": 0
+    },
+    "partnership-act-2018": {
+      "path": "acts/partnership-act-2018/",
+      "files": 74,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2018/Partnership%20Act%202018_serv6.pdf",
+      "source_sha256": "5eeb46a355326b601852375a977bb6c48d457a545efba7cfcdf725268e0e31e7",
+      "embedded_images": 0
+    },
+    "patents-registration-act-1973": {
+      "path": "acts/patents-registration-act-1973/",
+      "files": 31,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1973/Patents%20Registration%20Act%201973_serv6.pdf",
+      "source_sha256": "47a1e455c9d1368c8af4be8ea27b83da580f858fb384cdfed607a835461b1f33",
+      "embedded_images": 0
+    },
+    "pharmacy-act-2025": {
+      "path": "acts/pharmacy-act-2025/",
+      "files": 73,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2025/Pharmacy%20Act%202025_serv6.pdf",
+      "source_sha256": "79f578e08675bb395f2e605138c8de61714bc1401b569b0849ff05d27757a6d3",
+      "embedded_images": 0
+    },
+    "private-security-act-2012": {
+      "path": "acts/private-security-act-2012/",
+      "files": 40,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2012/Private%20Security%20Act%202012_serv6.pdf",
+      "source_sha256": "9a93c919332df4bc7836c0fdb4483715ae59525e030e9692374ff63d0723b78e",
+      "embedded_images": 0
+    },
+    "proceeds-of-crime-act-2004": {
+      "path": "acts/proceeds-of-crime-act-2004/",
+      "files": 122,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2004/Proceeds%20of%20Crime%20Act%202004_serv6.pdf",
+      "source_sha256": "d6956e7a9b9fa6ad2e7bb09b9b254b89fcda987ad7cf0c4209cff416d162fbbd",
+      "embedded_images": 0
+    },
+    "protection-of-traditional-knowledge-and-traditional-cultural-expressions-act-2026": {
+      "path": "acts/protection-of-traditional-knowledge-and-traditional-cultural-expressions-act-2026/",
+      "files": 63,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2026/Protection%20of%20Traditional%20Knowledge%20and%20Traditional%20Cultural%20Expressions%20Act%202026_serv6.pdf",
+      "source_sha256": "4b28080e191a777b0fdce035bdb54ba03a424824128a63fb42187fa76dd1fa12",
+      "embedded_images": 0
+    },
+    "public-accounts-committee-act-1992": {
+      "path": "acts/public-accounts-committee-act-1992/",
+      "files": 21,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1992/Public%20Accounts%20Committee%20Act%201992_serv6.pdf",
+      "source_sha256": "cfc6fc7a7bed3ade326505d7c10fb0cd16c924e738feb18c24c9f7eddbd65889",
+      "embedded_images": 0
+    },
+    "public-finance-control-and-management-act-1997": {
+      "path": "acts/public-finance-control-and-management-act-1997/",
+      "files": 41,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1997/Public%20Finance%20%28Control%20and%20Management%29%20Act%201997_serv6.pdf",
+      "source_sha256": "9d5e3e0695b698dd6837d91dd38aaeb3d3eccd418a718d618139b70acd62b612",
+      "embedded_images": 0
+    },
+    "public-health-act-1925": {
+      "path": "acts/public-health-act-1925/",
+      "files": 22,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1925/Public%20Health%20Act%201925_serv6.pdf",
+      "source_sha256": "47189b9b011564719a3312c58dc123f283ce08e96d8e0841ed451165a20467a1",
+      "embedded_images": 0
+    },
+    "public-investments-act-1978": {
+      "path": "acts/public-investments-act-1978/",
+      "files": 5,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1978/Public%20Investments%20Act%201978_serv6.pdf",
+      "source_sha256": "091e077bd9e76deaef865144124da3659fe301d3be8876aed2dcc678d582f450",
+      "embedded_images": 0
+    },
+    "public-order-act-2025": {
+      "path": "acts/public-order-act-2025/",
+      "files": 17,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2025/Public%20Order%20Act%202025_serv6.pdf",
+      "source_sha256": "8dce57d2258ea0523009cee408797a820218fa55426da17cd87526c139a083f9",
+      "embedded_images": 0
+    },
+    "quarantine-act-1908": {
+      "path": "acts/quarantine-act-1908/",
+      "files": 107,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1908/Quarantine%20Act%201908_serv6.pdf",
+      "source_sha256": "a6f48aa00f45c6d236224261cfbdc1a6bd8145f63f070d2d02f7c717d20d668b",
+      "embedded_images": 0
+    },
+    "ronphos-act-2005": {
+      "path": "acts/ronphos-act-2005/",
+      "files": 49,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2005/RONPHOS%20Act%202005_serv6.pdf",
+      "source_sha256": "74370b513dcbbdb667309348083a353d6929d459afaf9e51f408c1bd28c1e529",
+      "embedded_images": 0
+    },
+    "recognition-of-foreign-divorces-legal-separations-and-nullity-of-marriages-act-1973": {
+      "path": "acts/recognition-of-foreign-divorces-legal-separations-and-nullity-of-marriages-act-1973/",
+      "files": 10,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1973/Recognition%20of%20Foreign%20Divorces%2C%20Legal%20Separations%20and%20Nullity%20of%20Marriages%20Act%201973_serv6.pdf",
+      "source_sha256": "64d5b26a86e870881873d543bda631218021f898a5b4a6a017b47bec7972d6a4",
+      "embedded_images": 0
+    },
+    "refugees-convention-act-2012": {
+      "path": "acts/refugees-convention-act-2012/",
+      "files": 57,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2012/Refugees%20Convention%20Act%202012_serv6.pdf",
+      "source_sha256": "f93acf8bf270faee685b24d0a242db904fd08575ef6648243b3dbc68a4df0b1f",
+      "embedded_images": 0
+    },
+    "registration-of-associations-act-2020": {
+      "path": "acts/registration-of-associations-act-2020/",
+      "files": 55,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2020/Registration%20of%20Associations%20Act%202020_serv6.pdf",
+      "source_sha256": "05262ff2efcaa4d451a79e6480837e5c63eff6ac66ed6c69099ad64fbe65a06c",
+      "embedded_images": 0
+    },
+    "regulations-governing-intestate-estates-1938": {
+      "path": "acts/regulations-governing-intestate-estates-1938/",
+      "files": 6,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1938/Regulations%20Governing%20Intestate%20Estates%201938_serv6.pdf",
+      "source_sha256": "4ab0600516ad05eb2161c3f0c2016f3aca3cfa465cc2c902d5d50bf1017e6072",
+      "embedded_images": 0
+    },
+    "regulations-validity-act-2001": {
+      "path": "acts/regulations-validity-act-2001/",
+      "files": 5,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2001/Regulations%20Validity%20Act%202001_serv6.pdf",
+      "source_sha256": "e828ceed0b374d89b7ce9b1747dab5fdb7ccfeddbef9c1588fae9f52cc1bdd78",
+      "embedded_images": 0
+    },
+    "republic-proceedings-act-1972": {
+      "path": "acts/republic-proceedings-act-1972/",
+      "files": 29,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1972/Republic%20Proceedings%20Act%201972_serv6.pdf",
+      "source_sha256": "9eb0b104f318b6783e2eb6ff1381c224b9f801099e8531adfebf86ffa169edba",
+      "embedded_images": 0
+    },
+    "rescue-and-fire-service-act-2019": {
+      "path": "acts/rescue-and-fire-service-act-2019/",
+      "files": 67,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2019/Rescue%20and%20Fire%20Service%20Act%202019_serv6.pdf",
+      "source_sha256": "52c7840a0cdbd13500f0c4d91aa89cb83eb22241a9a7bf90ba8e6b80a3777c02",
+      "embedded_images": 0
+    },
+    "sale-of-second-hand-motor-vehicles-act-1973": {
+      "path": "acts/sale-of-second-hand-motor-vehicles-act-1973/",
+      "files": 12,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1973/Sale%20of%20Second-Hand%20Motor%20Vehicles%20Act%201973_serv6.pdf",
+      "source_sha256": "64a5cd83bea83b9f66089c3db49a64b3a147f9034957457536c5d29fd6f35de3",
+      "embedded_images": 0
+    },
+    "sanitary-inspectors-act-1921": {
+      "path": "acts/sanitary-inspectors-act-1921/",
+      "files": 7,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2021/Sanitary%20Inspectors%20Act%201921_serv6.pdf",
+      "source_sha256": "9da61db0d43390d02cd8f4d5014b1b9c5de6d2a9488d7e6138f0ab16b9ad1189",
+      "embedded_images": 0
+    },
+    "sea-boundaries-act-1997": {
+      "path": "acts/sea-boundaries-act-1997/",
+      "files": 12,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1997/Sea%20Boundaries%20Act%201997_serv6.pdf",
+      "source_sha256": "d1c2cd33ddc9b9ab253dca481712241a0a1ea5850f66b38a7d99ad31dec5c41b",
+      "embedded_images": 0
+    },
+    "special-missions-privileges-and-immunities-act-1976": {
+      "path": "acts/special-missions-privileges-and-immunities-act-1976/",
+      "files": 13,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1976/Special%20Missions%20Privileges%20and%20Immunities%20Act%201976_serv6.pdf",
+      "source_sha256": "976bac88d048fb8d613f479e57aed079010a68434256e3335f435a0d6d0b498a",
+      "embedded_images": 0
+    },
+    "sports-act-2026": {
+      "path": "acts/sports-act-2026/",
+      "files": 33,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2026/Sports%20Act%202026_serv6.pdf",
+      "source_sha256": "15a1ae1b40af621fc8af5d8bfc3c55c6f07be642ade0ce4f9bd00ac5fc863e3a",
+      "embedded_images": 0
+    },
+    "statistics-act-1992": {
+      "path": "acts/statistics-act-1992/",
+      "files": 18,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1992/Statistics%20Act%201992_serv6.pdf",
+      "source_sha256": "92c31ac2c892f966dab3baf7066d8f6bace9533b7abe03182c852d80926ef9a2",
+      "embedded_images": 0
+    },
+    "statute-law-revision-act-2011": {
+      "path": "acts/statute-law-revision-act-2011/",
+      "files": 17,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2011/Statute%20Law%20Revision%20Act%202011_serv6.pdf",
+      "source_sha256": "d77ee776269cdff908f5c251ed9296c9b5a683d83aac82cd5264580f89054a5a",
+      "embedded_images": 0
+    },
+    "statutory-salaries-act-1974": {
+      "path": "acts/statutory-salaries-act-1974/",
+      "files": 4,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1974/Statutory%20Salaries%20Act%201974_serv6.pdf",
+      "source_sha256": "45c026890f939484ac225215294e5693869bb2f37d0a80d8e39f2bd0ae76c173",
+      "embedded_images": 0
+    },
+    "succession-probate-and-administration-act-1976": {
+      "path": "acts/succession-probate-and-administration-act-1976/",
+      "files": 82,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1976/Succession%2C%20Probate%20and%20Administration%20Act%201976_serv6.pdf",
+      "source_sha256": "d6aa94904c840d1e6c95ff20c1913925bfbce5d97941aed34da636c1d37c1c9a",
+      "embedded_images": 0
+    },
+    "telecommunications-service-tax-act-2009": {
+      "path": "acts/telecommunications-service-tax-act-2009/",
+      "files": 17,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2009/Telecommunications%20Service%20Tax%20Act%202009_serv6.pdf",
+      "source_sha256": "3a125e0585a90505a802b814ad0ebfe3fe879e03905347368c1642e8ed942bdf",
+      "embedded_images": 0
+    },
+    "the-university-of-the-south-pacific-recognition-of-convention-act-2017": {
+      "path": "acts/the-university-of-the-south-pacific-recognition-of-convention-act-2017/",
+      "files": 8,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2017/The%20University%20of%20the%20South%20Pacific%20%28Recognition%20of%20Convention%29%20Act%202017_serv6.pdf",
+      "source_sha256": "f8650f106acaa32892d82b728b92d312bf448c802e60e16247be2bd17931732d",
+      "embedded_images": 0
+    },
+    "third-country-reception-commercial-operations-and-services-fund-act-2025": {
+      "path": "acts/third-country-reception-commercial-operations-and-services-fund-act-2025/",
+      "files": 9,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2025/Third%20Country%20Reception%20Commercial%20Operations%20and%20Services%20Fund%20Act%202025_serv6.pdf",
+      "source_sha256": "b7d11b32c6c5355ca1e87f219457563af321afcf0093ffe156b45ea57820c4a3",
+      "embedded_images": 0
+    },
+    "tobacco-control-act-2009": {
+      "path": "acts/tobacco-control-act-2009/",
+      "files": 58,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/laws/2009/Tobacco%20Control%20Act%202009_serv6.pdf",
+      "source_sha256": "591c971db307b7a589effe994495f2f8fee818ff8c7ee965af0e1ad5869300b2",
+      "embedded_images": 0
+    },
+    "trademarks-act-2019": {
+      "path": "acts/trademarks-act-2019/",
+      "files": 68,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2019/Trademarks%20Act%202019_serv6.pdf",
+      "source_sha256": "11429b1126a12a85b9ce2a07edd37e17e4a64f16b16a50d4de0fe7424548d210",
+      "embedded_images": 0
+    },
+    "treasury-fund-investment-act-1971": {
+      "path": "acts/treasury-fund-investment-act-1971/",
+      "files": 6,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1971/Treasury%20Fund%20Investment%20Act%201971_serv6.pdf",
+      "source_sha256": "ff0e41d95796b1d447136342d26728e93e6c4ade7c2145facd9d6bc748a1c97c",
+      "embedded_images": 0
+    },
+    "treasury-fund-protection-act-2004": {
+      "path": "acts/treasury-fund-protection-act-2004/",
+      "files": 9,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2004/Treasury%20Fund%20Protection%20Act%202004_serv6.pdf",
+      "source_sha256": "820a34337322f904d8a2cd003e97e733385ea8765292d1ab4d31ad8253ac3413",
+      "embedded_images": 0
+    },
+    "trusts-act-2018": {
+      "path": "acts/trusts-act-2018/",
+      "files": 36,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2018/Trusts%20Act%202018_serv6.pdf",
+      "source_sha256": "c1893a6d81c2b5b4f4b75ccd773c0e3149abdfaaf1338538d0835aa5a08c87b2",
+      "embedded_images": 0
+    },
+    "vessel-registration-act-2024": {
+      "path": "acts/vessel-registration-act-2024/",
+      "files": 88,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2024/Vessel%20Registration%20Act%202024_serv6.pdf",
+      "source_sha256": "cadbb452275a1fb6c563e075b0b41264bc58bd0c330ffa26446d5a4a36facb9c",
+      "embedded_images": 0
+    },
+    "weights-and-measures-act-1976": {
+      "path": "acts/weights-and-measures-act-1976/",
+      "files": 41,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1976/Weights%20and%20Measures%20Act%201976_serv6.pdf",
+      "source_sha256": "e015f404cba0bde1fe04300cbc62088bde2c82936a1185b227fd88b490dfa24f",
+      "embedded_images": 0
+    },
+    "workers-contracts-of-service-act-1922": {
+      "path": "acts/workers-contracts-of-service-act-1922/",
+      "files": 52,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1922/Workers%20%28Contracts%20of%20Service%29%20Act%201922_serv6.pdf",
+      "source_sha256": "958118e979a0f19f3372d7061c520d17d6c6433af6ebb0274c48940b2ff06d75",
+      "embedded_images": 0
+    },
+    "workers-compensation-act-1956": {
+      "path": "acts/workers-compensation-act-1956/",
+      "files": 24,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-05-12",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/1956/Workers%E2%80%99%20Compensation%20Act%201956_serv6.pdf",
+      "source_sha256": "bd5ff204948aeebc79ca74b1023b8b03527d4caf0a88083e04443b2ec9a10017",
+      "embedded_images": 0
+    },
+    "community-monitoring-officers-act-2026": {
+      "path": "acts/community-monitoring-officers-act-2026/",
+      "files": 24,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-06-09",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2026/Community%20Monitoring%20Officers%20Act%202026_serv6.pdf",
+      "source_sha256": "19705fddd978a5b1851fda27d391ae7e287b654516fa1187b7f748a9e9ad3f52",
+      "embedded_images": 0
+    },
+    "mutual-assistance-in-criminal-matters-act-2004": {
+      "path": "acts/mutual-assistance-in-criminal-matters-act-2004/",
+      "files": 64,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-07-20",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2004/Mutual%20Assistance%20in%20Criminal%20Matters%20Act%202004_serv6.pdf",
+      "source_sha256": "277bab44a2e8770278e41d34159f906f7390400b21931e2a3c32a8cb449eae4e",
+      "embedded_images": 0
+    },
+    "public-enterprises-act-2019": {
+      "path": "acts/public-enterprises-act-2019/",
+      "files": 93,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-07-20",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2019/Public%20Enterprises%20Act%202019_serv6.pdf",
+      "source_sha256": "f8dbe6f016f166b09953e452c7877a4a44c7ac48423d015dd073b813e26e58bf",
+      "embedded_images": 0
+    },
+    "revenue-administration-act-2014": {
+      "path": "acts/revenue-administration-act-2014/",
+      "files": 90,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-07-20",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2014/Revenue%20Administration%20Act%202014_serv6.pdf",
+      "source_sha256": "feb5d01f19b86575c22df987e2ee850ff661e849cea5d5a9d409c786cc73a340",
+      "embedded_images": 0
+    },
+    "bail-act-2018": {
+      "path": "acts/bail-act-2018/",
+      "files": 38,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-08-20",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2018/Bail%20Act%202018_serv6.pdf",
+      "source_sha256": "5aa862a0ed691fb0e8756b217133175e0d630a0a8eeae70a2e19d5f263042c57",
+      "embedded_images": 0
+    },
+    "customs-act-2014": {
+      "path": "acts/customs-act-2014/",
+      "files": 341,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-08-20",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2014/Customs%20Act%202014_serv6.pdf",
+      "source_sha256": "15a9b64d0a33510479701235ec3c317b926790f7984c1abb10cb88359baa74cb",
+      "embedded_images": 0
+    },
+    "nauru-rpc-corporation-act-2017": {
+      "path": "acts/nauru-rpc-corporation-act-2017/",
+      "files": 36,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-08-20",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2017/Naoero%20%28RPC%29%20Corporation%20Act%202017_serv6.pdf",
+      "source_sha256": "e629997c3234befaed17c6a0b83866b51851ac488d784ffdec8249bffff94a4e",
+      "embedded_images": 0
+    },
+    "nauru-police-force-act-2025": {
+      "path": "acts/nauru-police-force-act-2025/",
+      "files": 203,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-08-20",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2025/Naoero%20Police%20Force%20Act%202025_serv6.pdf",
+      "source_sha256": "9029d2c5881afe5a59dd4ada6c6d02f3dba2e00cb6b1e5d18b9542ea94d277fb",
+      "embedded_images": 0
+    },
+    "public-debt-act-2026": {
+      "path": "acts/public-debt-act-2026/",
+      "files": 30,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-08-20",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2026/Public%20Debt%20Act%202026_serv6.pdf",
+      "source_sha256": "71439f7ac74f104017a71f4da3ce1151979f4d90e536f4a5f6686f41942866ea",
+      "embedded_images": 0
+    },
+    "nauru-cybersecurity-act-2026": {
+      "path": "acts/nauru-cybersecurity-act-2026/",
+      "files": 58,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-09-17",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2026/Naoero%20Cybersecurity%20Act%202026_serv6.pdf",
+      "source_sha256": "303cc21681c77d7480b29745e0b32e338ffacfe917b21fe4ff0a94c921adcb57",
+      "embedded_images": 0
+    },
+    "nauru-naturalisation-citizenship-act-2026": {
+      "path": "acts/nauru-naturalisation-citizenship-act-2026/",
+      "files": 28,
+      "versions": 1,
+      "first_law": null,
+      "in_force": "2026-09-17",
+      "source": "https://ronlaw.gov.nr/assets/docs/acts/2026/Naoero%20Naturalisation%20Citizenship%20Act%202026_serv6.pdf",
+      "source_sha256": "a837dd184759cab37f564a976cfd2db2cddcc6c70830efd1d003a9d6f7860149",
+      "embedded_images": 0
     }
   },
-  "built": "2026-10-28",
+  "built": "2026-11-04",
   "dates": {
     "commit": "in-force (the operative date printed in the history note, else the commencement in the Table of Amendments, else the reprint's consolidation date)",
     "baseline_trailer": "Consolidated",
@@ -33,7 +1903,8 @@
       "Candidate"
     ],
     "time": "12:00 Pacific/Nauru (UTC+12, no summer time)",
-    "before_1970": "none"
+    "before_1970": "none",
+    "append_only_reader": "per-act history; an appended Act can have an earlier source in-force date"
   },
   "author": {
     "amendment": "the amending Act (or GN)",

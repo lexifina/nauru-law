@@ -4,7 +4,7 @@
     python tools/in_force_on.py 2026-04-01 constitution article/19      # Article 19
     python tools/in_force_on.py 2025-09-01 public-service-act-2016 section/94A
 
-`main` is one line of commits in in-force order, so the text on a day is the tree of the last commit whose
+Each act is queried through its own commit history, so the text on a day is the tree of the last commit whose
 `In-force:` trailer is on or before it. Reads the trailer, not the commit date. Standard library only; the files are
 read through one `git cat-file --batch`.
 """
@@ -17,10 +17,10 @@ def git(*args: str) -> str:
     return subprocess.run(['git', *args], capture_output=True, text=True, encoding='utf-8', check=True).stdout
 
 
-def commit_on(day: str) -> str | None:
+def commit_on(day: str, act: str) -> str | None:
     best = None
     for line in git('log', '--first-parent', '--format=%H%x1f%(trailers:key=In-force,valueonly,separator=)',
-                    'main').splitlines():
+                    'main', '--', act).splitlines():
         h, d = (line.split('\x1f') + [''])[:2]
         d = d.strip()
         if d and d <= day:
@@ -47,7 +47,7 @@ def main() -> None:
     day, act = sys.argv[1], sys.argv[2].strip('/')
     if not re.fullmatch(r'\d{4}-\d{2}-\d{2}', day):
         sys.exit('date must be YYYY-MM-DD')
-    h = commit_on(day)
+    h = commit_on(day, act)
     if not h:
         sys.exit(f'no text on or before {day}: the record starts at the earliest reprint (see corpus.json history_from)')
     if len(sys.argv) > 3:

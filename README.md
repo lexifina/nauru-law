@@ -1,6 +1,12 @@
 # Nauru law, change by change
 
-Two laws of the Republic of Nauru (Naoero) as a git repository: the **Constitution of Nauru 1968** (since 12 May 2026
+This repository contains the Constitution, Public Service Act 2016 and 187 additional principal Acts from official RONLAW reprints. Each additional Act has one current-text version; its operative source date, path and PDF hash are listed in [`data/breadth-2026-11-04.csv`](data/breadth-2026-11-04.csv). The date does not claim that the same words applied earlier. This is partial coverage: ten expressly repealed Acts and one Act with an unresolved conditional repeal are excluded.
+
+The two official images omitted from the already published Public Service Act schedules require a separate correction review. Image-bearing new Acts are held until their assets can be placed.
+
+## Original detailed histories
+
+The original detailed histories cover two laws of the Republic of Nauru (Naoero): the **Constitution of Nauru 1968** (since 12 May 2026
 the Constitution of Naoero) and the **Public Service Act 2016**. The source is the official consolidated reprints of
 the Laws of the Republic of Nauru on [RONLAW](https://ronlaw.gov.nr), Nauru's online legal database, run by the
 Department of Justice and Border Control. There is one file per article, section or schedule. Each change is a commit
