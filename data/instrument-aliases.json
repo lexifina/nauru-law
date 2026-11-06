@@ -1,0 +1,92 @@
+[
+  {
+    "canonical_path": "subsidiary/declaration-of-national-emergency-for-the-management-and",
+    "alias_path": "subsidiary/declaration-of-national-emergency-for-the-management-and-2",
+    "gn": "195/2020",
+    "gazette": "65/2020",
+    "sources": [
+      {
+        "url": "https://ronlaw.gov.nr/assets/docs/laws/2020/Declaration%20of%20National%20Emergency%20for%20the%20Management%20and%20Minimisation%20of%20the%20Impacts%20of%20Coronavirus%20%28COVID-19%29.pdf",
+        "sha256": "d8b731b2ea5dcb7688dcfe423ab7def6292f1e5968c7838ae94d596329852bf4",
+        "instrument": 1
+      },
+      {
+        "url": "https://ronlaw.gov.nr/assets/docs/acts/2016/National%20Disaster%20Risk%20Management%20Act%202016_serv5.pdf",
+        "sha256": "3c10ec7549f48f38fbdadd09797449ffacedfe77439cdf6391eeadacc0d2e7c7",
+        "instrument": 2
+      }
+    ]
+  },
+  {
+    "canonical_path": "subsidiary/national-disaster-risk-management-management-and-6",
+    "alias_path": "subsidiary/national-disaster-risk-management-management-and-7",
+    "gn": "261/2020",
+    "gazette": "88/2020",
+    "sources": [
+      {
+        "url": "https://ronlaw.gov.nr/assets/docs/acts/2016/National%20Disaster%20Risk%20Management%20Act%202016_serv5.pdf",
+        "sha256": "3c10ec7549f48f38fbdadd09797449ffacedfe77439cdf6391eeadacc0d2e7c7",
+        "instrument": 7
+      },
+      {
+        "url": "https://ronlaw.gov.nr/assets/docs/laws/2020/National%20Disaster%20Risk%20Management%20%28Management%20and%20Minimisation%20of%20the%20Impacts%20of%20Coronavirus%20%28COVID-19%29%29%20Regulations%202020%20Order%204.pdf",
+        "sha256": "9ef0e67b76e27cc1102fd1de4998e43b6205c8eb3edc4dec9ad8751d8ea6c21d",
+        "instrument": 1
+      }
+    ]
+  },
+  {
+    "canonical_path": "subsidiary/appointment-of-authorised-officers",
+    "alias_path": "subsidiary/appointment-of-authorised-officers-2",
+    "gn": "155/2026",
+    "gazette": "49/2026",
+    "sources": [
+      {
+        "url": "https://ronlaw.gov.nr/assets/docs/laws/2026/National%20Disaster%20Risk%20Management_Appointment%20of%20Authorised%20Officers_serv5.pdf",
+        "sha256": "cd607a217e18d015651ae1371e514689f697b0c769019914c4d68bd87a18b194",
+        "instrument": 1
+      },
+      {
+        "url": "https://ronlaw.gov.nr/assets/docs/acts/2016/National%20Disaster%20Risk%20Management%20Act%202016_serv5.pdf",
+        "sha256": "3c10ec7549f48f38fbdadd09797449ffacedfe77439cdf6391eeadacc0d2e7c7",
+        "instrument": 17
+      }
+    ]
+  },
+  {
+    "canonical_path": "subsidiary/auditor-general-salary-no-2-regulations-1979",
+    "alias_path": "subsidiary/subsdiary-auditor-general-salary-no-2-regulations-1979",
+    "gn": "273/1979",
+    "gazette": "54/1979",
+    "sources": [
+      {
+        "url": "https://ronlaw.gov.nr/assets/docs/laws/1979/Auditor%20General%20%28Salary%29%20%28No%202%29%20Regulations%201979_serv6.pdf",
+        "sha256": "d9549e2510cf5f82522a766edf2452ade663801aa17e3ce4820c9fb96aa1456b",
+        "instrument": 1
+      },
+      {
+        "url": "https://ronlaw.gov.nr/assets/docs/acts/1973/Audit%20Act%201973_serv6.pdf",
+        "sha256": "215ff970f376e82ac53033dba905d31d1630ba8c931a14d10e9dfc3623ac92f6",
+        "instrument": 2
+      }
+    ]
+  },
+  {
+    "canonical_path": "subsidiary/customs-prohibition-of-export-of-scrap-metal-proclamation",
+    "alias_path": "subsidiary/customs-proclamation-prohibition-of-export-of-scrap-metal",
+    "gn": "462/2007",
+    "gazette": "97/2007",
+    "sources": [
+      {
+        "url": "https://ronlaw.gov.nr/assets/docs/laws/2007/Customs%20%28Prohibition%20of%20Export%20of%20Scrap%20Metal%29%20Proclamation%202007_serv6.pdf",
+        "sha256": "b2ef5445599c43e2070662a380490c98a0314056b0b2a28eac43bc946bc002c7",
+        "instrument": 1
+      },
+      {
+        "url": "https://ronlaw.gov.nr/assets/docs/acts/2014/Customs%20Act%202014_serv6%20%281%29.pdf",
+        "sha256": "68134a2d7e75d54d6753ede74bb302c1f8acea6c57a0f8310786e67773145be3",
+        "instrument": 4
+      }
+    ]
+  }
+]

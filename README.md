@@ -1,6 +1,6 @@
 # Nauru law, change by change
 
-This repository contains the Constitution, Public Service Act 2016 and 187 additional principal Acts from official RONLAW reprints. Each additional Act has one current-text version; its operative source date, path and PDF hash are listed in [`data/breadth-2026-11-04.csv`](data/breadth-2026-11-04.csv). The date does not claim that the same words applied earlier. This is partial coverage: ten expressly repealed Acts and one Act with an unresolved conditional repeal are excluded.
+This repository contains the Constitution, Public Service Act 2016, 187 additional principal Acts and 145 subsidiary instruments from official RONLAW reprints. The Constitution and Public Service Act have dated histories; other instruments begin with one current-text baseline. The date is the official source's latest amendment commencement or explicit original commencement and does not claim the same words applied earlier. Coverage remains partial; held instruments and reasons are listed in data/runner-held.csv.
 
 The two official images omitted from the already published Public Service Act schedules require a separate correction review. Image-bearing new Acts are held until their assets can be placed.
 
@@ -83,7 +83,6 @@ In total: 2 consolidated baselines, 8 amendment commits by 8 Acts,
 - Intermediate wording between two reprints where one provision was changed by more than one Act.
 - Commencement of parts of an Act later than the reprint shows (the Table of Amendments prints these, e.g.
   "s 5: 12 May 2026"; see `data/amendments.csv`), and savings or transitional rules in the amending Acts.
-- The subsidiary legislation printed in the same reprint as the Public Service Act (regulations, rules, notices).
 - The Tables of Provisions and Tables of Amendments themselves (kept as data, not as law files), running heads, and
   page furniture.
 - Words a later reprint reproduces unchanged under a new number; renumbering shows as a deletion and an insertion.
@@ -117,3 +116,9 @@ any copyright in the following works: ... (b) any Act as defined in the Interpre
 and section 19(b) excludes "any official text of a legislative, administrative or legal nature". The texts were split
 into files and arranged as commits; the wording was not changed. Lexifina's own contributions (the tools, the
 arrangement and the commit messages) are CC0. See [`LICENSE`](LICENSE).
+
+## Additional current-text instruments
+
+This record adds 145 current-text instruments (0 principal Acts and the remaining subsidiary instruments). Each is an oldest version available baseline, dated by the official source's latest amendment commencement or explicit original commencement; the date does not claim the same words applied earlier. Instruments requiring official image assets are held, and no image correction is included. Coverage remains partial. Sources, operative dates and hashes are listed in [data/runner-batch-1.csv](data/runner-batch-1.csv); held instruments and reasons are in [data/runner-held.csv](data/runner-held.csv). Parser tooling was reviewed with AI assistance; law text is neither generated nor corrected by a model.
+
+Five duplicate source entries refer to instruments already counted above. Both official references and their Gazette identities are retained in [data/instrument-aliases.json](data/instrument-aliases.json).
