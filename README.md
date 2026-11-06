@@ -1,5 +1,7 @@
 # Nauru law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Nauru's national law, which global-law reads at `nauru/national/acts/`.
+
 This repository contains the Constitution, Public Service Act 2016, 187 additional principal Acts and 145 subsidiary instruments from official RONLAW reprints. The Constitution and Public Service Act have dated histories; other instruments begin with one current-text baseline. The date is the official source's latest amendment commencement or explicit original commencement and does not claim the same words applied earlier. Coverage remains partial; held instruments and reasons are listed in data/runner-held.csv.
 
 The two official images omitted from the already published Public Service Act schedules require a separate correction review. Image-bearing new Acts are held until their assets can be placed.
