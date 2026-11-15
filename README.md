@@ -1,126 +1,87 @@
-# Nauru law, change by change
+# Nauru: law history in git
+
+
+The law of Nauru (Naoero) as a git history: one file per article, section, regulation or schedule, one commit per version on the day it took effect, and the Act that made each change as the commit's author. `git blame` names the Act behind every line; `git log` lists every change to a provision; picking a date gives the text in force that day.
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Nauru's national law, which global-law reads at `nauru/national/acts/`.
 
-This repository contains the Constitution, Public Service Act 2016, 187 additional principal Acts and 145 subsidiary instruments from official RONLAW reprints. The Constitution and Public Service Act have dated histories; other instruments begin with one current-text baseline. The date is the official source's latest amendment commencement or explicit original commencement and does not claim the same words applied earlier. Coverage remains partial; held instruments and reasons are listed in data/runner-held.csv.
+**What is in it now:** the Constitution and the Public Service Act 2016, with their changes since RONLAW's earliest reprint of each (June 2022) as dated commits (7 for the Constitution, 6 for the Act); and 187 other Acts and 145 subsidiary instruments (regulations, rules, orders and notices), each as one current text. [`corpus.json`](corpus.json) lists every instrument with its folder, reprint and day; [`data/runner-held.csv`](data/runner-held.csv) lists what is held back (173 entries), with the reason.
 
-The two official images omitted from the already published Public Service Act schedules require a separate correction review. Image-bearing new Acts are held until their assets can be placed.
+The Constitution is in `constitution/` (`constitution/article/19.md` is Article 19, the appointment of Ministers and the Vice President) and the Public Service Act in `public-service-act-2016/`; every other Act is in `acts/<title>/` and every subsidiary instrument in `subsidiary/<title>/` (`acts/workers-contracts-of-service-act-1922/section/1.md`).
 
-## Original detailed histories
+The text is in English, as RONLAW's reprints print it; their history notes stay in brackets where they print them (`[Art 19 subst Act 6 of 2025 s 4, opn 11 Mar 2025]`).
 
-The original detailed histories cover two laws of the Republic of Nauru (Naoero): the **Constitution of Nauru 1968** (since 12 May 2026
-the Constitution of Naoero) and the **Public Service Act 2016**. The source is the official consolidated reprints of
-the Laws of the Republic of Nauru on [RONLAW](https://ronlaw.gov.nr), Nauru's online legal database, run by the
-Department of Justice and Border Control. There is one file per article, section or schedule. Each change is a commit
-credited to the Act that made it, dated the day it became operative, at noon Nauru time. The text is English.
-
-The record runs from 2022-06-08 to 2026-07-20 in 13 commits, built from 5 reprints of the
-Constitution and 3 of the Public Service Act.
-
-## The questions, as git commands
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What did Article 19 of the Constitution say on 1 April 2026? | `python tools/in_force_on.py 2026-04-01 constitution article/19` |
-| The whole Constitution on a date | `python tools/in_force_on.py 2026-01-01 constitution` |
-| A section of the Public Service Act on a date | `python tools/in_force_on.py 2025-09-01 public-service-act-2016 section/94A` |
-| Which Act last changed each line of an article? | `git blame constitution/article/19.md` |
-| Every change to an article, with the Act behind it | `git log -p constitution/article/19.md` |
-| The words that changed, not whole lines | `git log -p --word-diff constitution/article/19.md` |
-| Everything one Act changed, across both laws | `git log --author='No 21' --stat` |
-| Every Act that changed the Public Service Act, in order | `git log --format='%(trailers:key=In-force,valueonly,separator=) %an' -- public-service-act-2016` |
-| Changes no single Act is credited with | `git log --format='%h %s' --grep='Kind: unexplained' --grep='Kind: several-acts'` |
-| The reprints used, and the Table of Amendments | [`data/versions.csv`](data/versions.csv), [`data/amendments.csv`](data/amendments.csv) |
+| Every change to Article 19 of the Constitution | `git log -p --word-diff -- constitution/article/19.md` |
+| Which Act wrote each line of Article 19? | `git blame constitution/article/19.md` |
+| Every version of the Constitution, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- constitution` |
+| Article 19 as in force on 1 April 2026 | `python tools/in_force_on.py 2026-04-01 constitution article/19` |
 
-In PowerShell, a `$(...)` revision written straight before `:path` in git show splits into two arguments. Use `$r = git rev-list -1 main; git show "$($r):constitution/article/19.md"`.
-A raw-git date query must name the end of the day in Nauru time, e.g. `git rev-list -1 --before="2026-04-01T23:59:59+12:00" main`;
-a bare date takes the current time of day. `tools/in_force_on.py` reads the `In-force:` trailer and avoids this.
+**Outside git**, we also host this record publicly, for free:
 
-Each file starts with any Part or Division headings above the provision (`## PART III — THE PRESIDENT AND THE
-EXECUTIVE`), then the provision's heading as printed (`# Article 19 Appointment of Ministers and Vice President`, or
-`# 94A Secondment of a permanent employee`), then one line per clause, paragraph or definition. The reprint's history
-notes stay where it prints them, in brackets: `[Art 21 subst Act 18 of 2026 s 6, opn 16 Apr 2026]` means Article 21
-was substituted by section 6 of Act 18 of 2026, operative 16 April 2026.
+- **[Ask Claude about Nauruan law](https://global-law.lexifina.com/v1/try_claude?country=nauru)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=nauru)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=annual+leave&jurisdictions=nauru)**: a search of Nauruan law for "annual leave", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-## The dates, and which one we use
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in English.
 
-Each RONLAW reprint is consolidated to a date (the latest commencement in its Table of Amendments). Between two
-reprints, **each change is dated by the operative date its history note prints** ("opn 16 Apr 2026"), the day the
-changed text took effect. Where a changed provision has no new note, the commencement the Table of Amendments gives
-for the one Act newly listed is used. Commits are at noon Nauru time (UTC+12; Nauru has no summer time). Under the
-Interpretation Act 2011, s 21, a provision commences at the beginning of its day, so any time that day is correct.
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
-The Acts are numbered by the year they were certified: the Constitution (Amendment) Act 2025 No 15, certified on
-31 March 2026, is cited in the notes as "Act 15 of 2026". Each commit gives that citation as `Cited-as:`.
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add nauru/national/acts
+python3 tools/law.py show 2026-01-01 nauru/national/acts/constitution/article/19.md
+```
 
-The record starts at each act's **earliest reprint on RONLAW**: the Constitution as consolidated to
-8 June 2022, and the Public Service Act as consolidated to 10 June 2022. That first version is a commit labelled
-`Kind: consolidated` by RONLAW. It has the whole text as it then stood, with every history note, so the earlier history
-(from 1968 and 2016) is listed but is not separate commits.
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-## What "author" means
+## Dates
 
-The author of a commit is the Act that made the change, at an address that cannot exist:
-`Constitution (Amendment) Act 2026 No 18 <act-2026-18@ronlaw-gov-nr.invalid>`. So `git blame` names, for each line,
-the Act that last wrote it. One commit holds everything one Act changed on one day, across both laws (`Affecting:`).
+Each commit is dated at noon, Nauru time (UTC+12, no summer time), on the day the version took effect, and carries it in its `In-force:` trailer:
 
-A change is credited by the evidence in the reprint itself (`Evidence:` trailer):
-1. **note**: the changed provision's history note gains a citation of exactly one Act, operative after the previous
-   reprint (73 files);
-2. **table**: no new note, but exactly one Act was added to the Table of Amendments between the two reprints
-   (1 files).
+- for a change to the Constitution or the Public Service Act, the operative day its history note prints ("opn 16 Apr 2026"); where the changed provision has no new note, the commencement the Table of Amendments gives for the one Act newly listed;
+- for the first version of those two, the day RONLAW's earliest reprint is consolidated to (8 and 10 June 2022); earlier changes appear only in its history notes;
+- for every other instrument, the latest commencement in its reprint's Table of Amendments (1976 to 2026); the day does not claim the same words applied earlier.
 
-Where the notes of one provision name more than one new Act, the reprint shows only the final wording, so it is
-committed on the latest operative date by RONLAW, labelled `Kind: several-acts`, with one `Candidate:` trailer per
-Act and credit to none (1 commit(s)). A change with no evidence is RONLAW's, labelled `Kind: unexplained`
-and dated by the reprint (1 commit(s)); for example, section 37A of the Public Service Act appears in
-the reprint consolidated to 20 July 2026 with no history note.
-
-In total: 2 consolidated baselines, 8 amendment commits by 8 Acts,
-1 several-acts and 1 unexplained commit(s), and one documentation commit.
-
-## What it does not show
-
-- Text before each act's earliest reprint on RONLAW, except as the history notes list it.
-- Intermediate wording between two reprints where one provision was changed by more than one Act.
-- Commencement of parts of an Act later than the reprint shows (the Table of Amendments prints these, e.g.
-  "s 5: 12 May 2026"; see `data/amendments.csv`), and savings or transitional rules in the amending Acts.
-- The Tables of Provisions and Tables of Amendments themselves (kept as data, not as law files), running heads, and
-  page furniture.
-- Words a later reprint reproduces unchanged under a new number; renumbering shows as a deletion and an insertion.
-- `git blame` credits whole lines: a clause written by two Acts is credited to the later one. Use `--word-diff`.
-
-This is a research aid. RONLAW's reprints are the Government's consolidations, but the certified Acts and the
-Government Gazette prevail.
+Each change is credited to the Act that made it, at an address that cannot exist (`Constitution (Amendment) Act 2026 No 18 <act-2026-18@ronlaw-gov-nr.invalid>`). First versions, single texts, a change two Acts could explain (`Kind: several-acts`) and one nothing explains (`Kind: unexplained`) are credited to `RONLAW (Department of Justice and Border Control)`.
 
 ## How it is checked
 
-- `tools/build/check_repo.py`: every reprint's files, rebuilt from the PDF, equal the files in git on its
-  consolidation date, byte for byte; and an independent letters-and-digits check compares each version in git with
-  the raw words of the PDF, read without the build's parser. Result: bytes: 984 files identical, 1 differ only in white space, 0 mismatches; independent words: 8/8 versions match the raw PDF letter for letter
-- `tools/build/test_repo.py`: blame, the on-date tool across amendments, `log --follow` order, trailers, authors and
-  every command in the table above. Result: 6/6 passed
-- Determinism: two builds from the same retrieved files on 2026-10-29 gave the same HEAD (see data/verification.json "rebuild_heads")
+- `tools/build/check_repo.py` rebuilds every reprint of the Constitution and the Public Service Act from its PDF and compares it, byte for byte, with the files in git on the day it is consolidated to, then letter for letter with the PDF's raw words: 8 of 8 versions match (see [`REPRODUCE.md`](REPRODUCE.md)).
+- `tools/build/test_repo.py` checks that blame names an Act, that the text differs before and after an amendment, and the log order, trailers and authors.
+- Every single-text instrument names the reprint it was read from and that PDF's sha256 (`Source:`, `Source-SHA256:`); instruments whose words, day or status did not check out are held back, not committed.
+- A second build of the two dated histories from the same retrieved files gave the same head.
 
-## How it is built
+## What it does not show
 
-The record uses RONLAW's index (its own JSON API) and each reprint of the two acts. `parse.py` reads each PDF by its typography: 12pt bold provision headings, Part and Division
-headings, 10pt text and 8pt history notes. `build.py` compares consecutive reprints file by file, credits each change
-as above, and writes the history with one `git fast-import`. No AI model takes part in building or checking it. See
-[`REPRODUCE.md`](REPRODUCE.md) and [`SOURCES.md`](SOURCES.md).
+- **Earlier wording of most law.** 332 of the 334 instruments are one current text; the Constitution and the Public Service Act go back only to June 2022.
+- **Held instruments.** 102 instruments that carry official images wait until the images can be placed; others are held as repealed, spent or absent from the newest reprint, or because their day or words did not check out (`data/runner-held.csv`).
+- **Images.** The two official images in the Public Service Act's schedules are not in its files.
+- **Later commencement of parts of an Act**, and savings or transitional rules in amending Acts.
+- **As-made Acts, bills, the Government Gazette and court decisions**, which RONLAW also holds.
+
+## Sources
+
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [RONLAW](https://ronlaw.gov.nr) (Department of Justice and Border Control) | Official consolidated reprints of the Laws of the Republic of Nauru | some: earlier reprints of an Act | The text, each reprint's Table of Amendments and its history notes; the Government's consolidation: the certified Acts and the Gazette prevail |
 
 ## Licence
 
-Source: RONLAW, Republic of Nauru Law, the Department of Justice and Border Control, Government of Nauru
-(ronlaw.gov.nr). The site footer reads "Copyright 2023 — Ronlaw. All rights reserved." The texts themselves are not
-protected: the Copyright Act 2019 (Nauru), section 15(4), says "The Republic has no copyright over nor there exists
-any copyright in the following works: ... (b) any Act as defined in the Interpretation Act 2011; (c) any regulations",
-and section 19(b) excludes "any official text of a legislative, administrative or legal nature". The texts were split
-into files and arranged as commits; the wording was not changed. Lexifina's own contributions (the tools, the
-arrangement and the commit messages) are CC0. See [`LICENSE`](LICENSE).
+See [`LICENSE`](LICENSE). The texts are not protected by copyright: the Copyright Act 2019 (Nauru), section 15(4), gives none in any Act or regulations, and section 19(b) excludes "any official text of a legislative, administrative or legal nature". The tools, data files, arrangement and commit messages are CC0 1.0.
 
-## Additional current-text instruments
+No AI model wrote or edited legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
-This record adds 145 current-text instruments (0 principal Acts and the remaining subsidiary instruments). Each is an oldest version available baseline, dated by the official source's latest amendment commencement or explicit original commencement; the date does not claim the same words applied earlier. Instruments requiring official image assets are held, and no image correction is included. Coverage remains partial. Sources, operative dates and hashes are listed in [data/runner-batch-1.csv](data/runner-batch-1.csv); held instruments and reasons are in [data/runner-held.csv](data/runner-held.csv). Parser tooling was reviewed with AI assistance; law text is neither generated nor corrected by a model.
+## More
 
-Five duplicate source entries refer to instruments already counted above. Both official references and their Gazette identities are retained in [data/instrument-aliases.json](data/instrument-aliases.json).
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
