@@ -59,6 +59,7 @@ Each change is credited to the Act that made it, at an address that cannot exist
 - `tools/build/test_repo.py` checks that blame names an Act, that the text differs before and after an amendment, and the log order, trailers and authors.
 - Every single-text instrument names the reprint it was read from and that PDF's sha256 (`Source:`, `Source-SHA256:`); instruments whose words, day or status did not check out are held back, not committed.
 - A second build of the two dated histories from the same retrieved files gave the same head.
+- [vulnerabilities/](vulnerabilities/README.md): possible drafting mistakes in Nauruan law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
